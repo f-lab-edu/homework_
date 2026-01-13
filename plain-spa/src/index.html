@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>토스 기술 블로그, 토스테크</title>
+    <link rel="stylesheet" href="default.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container">
+        <div class="logo">
+          <a href="/"
+            ><img
+              src="https://static.toss.im/logos/png/4x/logo-toss-tech.png"
+              alt="toss tech"
+              width="120px"
+          /></a>
+        </div>
+        <div class="nav-links">
+          <a href="https://www.slash.page/ko/">SLASH<span class="icon">↗</span></a>
+          <a href="#">SIMPLICITY <span class="icon">↗</span></a>
+          <button class="search-btn">구독하기</button>
+          <button class="search-btn gray">채용 바로가기</button>
+          <button class="search-icon">🔍</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- <script src="./index.js"></script> -->
+
+    <!-- 전체 컨테이너 -->
+    <div class="container">
+      <!-- 배너 -->
+      <section class="banner">
+        <img class="banner img" src="./assets/img/toss-image.webp" />
+      </section>
+
+      <!-- 컨텐츠 컨테이너  -->
+      <div class="content-container">
+        <!-- 메인 컨텐츠 리스트 컨테이너-->
+        <div class="content-list-container">
+          <!-- 컨텐츠 카테고리 헤더 탭 -->
+          <nav class="category-tabs">
+            <a href="#" class="active">전체</a>
+            <a href="##">개발</a>
+            <a href="/ml">데이터/ML</a>
+            <a href="/design">디자인</a>
+            <a href="/product">프로덕트</a>
+          </nav>
+          <div id="post-list"></div>
+
+          <!-- 페이지 네이션 -->
+          <nav></nav>
+        </div>
+
+        <!-- 사이드 컨텐츠 리스트 컨테이너-->
+        <div class="side-content-container">
+           <aside class="sidebar">
+            <section class="side-section">
+                <h3 class="side-title">인기 있는 글</h3>
+                <ul class="popular-list">
+                    <li>
+                        <strong>AST로 Outdated 없는 퍼널 문서 만들기</strong>
+                        <span>조성훈</span>
+                    </li>
+                    <li>
+                        <strong>달리는 기차 바퀴 철하기: 7년만의 컬러 시스템 업데이트</strong>
+                        <span>윤민석, 권범</span>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="side-section">
+                <h3 class="side-title">아티클 시리즈</h3>
+                <div class="series-card">
+                    <img src="https://static.toss.im/illusts-content/img-tech-blog-series-1.png" alt="series">
+                    <div class="series-info">
+                        <strong>접근성 업무일지</strong>
+                        <p>토스의 접근성 이야기</p>
+                        <span class="tag">아티클 4</span>
+                    </div>
+                </div>
+            </aside>
+        </div>
+      </div>
+    </div>
+
+    <!-- 푸터 -->
+    <footer></footer>
+      <script type="module" src="./dist/components/post-list.js"></script>
+  </body>
+</html>
