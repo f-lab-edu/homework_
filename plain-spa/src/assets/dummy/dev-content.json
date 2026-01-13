@@ -1,0 +1,713 @@
+{
+  "page": 1,
+  "pageSize": 5,
+  "count": 378,
+  "next": "/api-public/v3/ipd-thor/api/v1/workspaces/15/posts?page=2&size=5",
+  "previous": null,
+  "results": [
+    {
+      "id": 42683,
+      "updatedTime": "2026-01-13T20:17:00+09:00",
+      "createdTime": "2025-11-20T10:48:24+09:00",
+      "category": "Engineering",
+      "categories": [
+        {
+          "name": "Engineering",
+          "id": 1024,
+          "slug": "engineering",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "토스페이먼츠 레거시 개편 이야기",
+          "id": 1999,
+          "slug": "payments-legacy",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "DevOps / Server Platform",
+          "id": 2145,
+          "slug": "devops-server-platform",
+          "parentId": 1024,
+          "iconUrl": ""
+        }
+      ],
+      "series": null,
+      "seriesSlug": null,
+      "title": "수천 개의 API/BATCH 서버를 하나의 설정 체계로 관리하기",
+      "subtitle": "토스페이먼츠 서버플랫폼 팀이 '설정' 하나로 얼마나 깊이 고민하고 문제를 해결해왔는지 공유해 드려요.",
+      "bottomButtonConfig": {
+        "ctaType": "EMPHASIS_TEXT",
+        "imageUrl": "https://static.toss.im/icons/png/4x/icon-coffee-cup-handle.png",
+        "imageAlt": "",
+        "title": "토스페이먼츠 서버플랫폼 팀이 궁금하다면?",
+        "description": "이 글을 읽고 토스페이먼츠 동료들이 궁금하다면, 커피챗을 신청해 보세요!",
+        "ctaName": "커피챗 신청하기",
+        "landingUrl": "https://builder.tosspayments.com/to/0d8fcc26d35e41adb64d4dc0fa432924",
+        "isSearchBottomCta": false,
+        "landingInExternalBrowser": false,
+        "serviceId": null,
+        "stockConfig": null,
+        "landingScheme": "supertoss://web?url=https%3A%2F%2Fbuilder.tosspayments.com%2Fto%2F0d8fcc26d35e41adb64d4dc0fa432924%3F&external=true&clearHistory=true&swipeRefresh=true",
+        "landingExternal": "https://builder.tosspayments.com/to/0d8fcc26d35e41adb64d4dc0fa432924"
+      },
+      "coverConfig": {
+        "coverType": "NONE",
+        "imageUrl": null,
+        "videoUrl": null,
+        "backgroundColor": null,
+        "isFill": false,
+        "imageAlt": null
+      },
+      "thumbnailConfig": {
+        "imageUrl": "https://static.toss.im/illusts/payments_legacy_jaeeun.png",
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "key": "payments-legacy-8",
+      "minAge": 0,
+      "isDisplaying": true,
+      "isDisplayingPublishedTime": true,
+      "workspaceId": 15,
+      "isPublished": true,
+      "publishedTime": "2026-01-09T13:43:00+09:00",
+      "likeCount": 0,
+      "commentBoard": null,
+      "relatedPostTitle": null,
+      "relatedPosts": [],
+      "disclaimer": null,
+      "seoConfig": {
+        "post": 42683,
+        "title": null,
+        "description": "자, 여기 10개의 박스가 있습니다. 이 중에서 빨간색 박스를 찾아보세요.금방 찾으셨나요? 오른쪽에서 세 번째에 있는 빨간 박스를 발견하셨을 겁니다.그렇다면 이번에는 2,000개가 넘는 박스 중에서 단 하나뿐인 빨간 박스를 찾아보세요. 훨씬 어렵죠?여러분은 배치 서버를 몇 개까지 운영해...",
+        "urlSlug": "payments-legacy-8",
+        "primaryKeyword": {
+          "id": 59967,
+          "content": "서버플랫폼",
+          "wordType": "SEO_KEYWORD"
+        },
+        "relatedKeywords": [
+          {
+            "id": 37528,
+            "content": "토스페이먼츠",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 37672,
+            "content": "API",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 57007,
+            "content": "레거시",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 57009,
+            "content": "레거시개편",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59969,
+            "content": "SRE",
+            "wordType": "SEO_KEYWORD"
+          }
+        ],
+        "tags": []
+      },
+      "openGraph": {
+        "title": "수천 개의 API/BATCH 서버를 하나의 설정 체계로 관리하기",
+        "description": "자, 여기 10개의 박스가 있습니다. 이 중에서 빨간색 박스를 찾아보세요.금방 찾으셨나요? 오른쪽에서 세 번째에 있는 빨간 박스를 발견하셨을 겁니다.그렇다면 이번에는 2,000개가 넘는 박스 중에서 단 하나뿐인 빨간 박스를 찾아보세요. 훨씬 어렵죠?여러분은 배치 서버를 몇 개까지 운영해...",
+        "backgroundColor": "#424242",
+        "imageAlt": null,
+        "imageUrl": "https://static.toss.im/illusts/payments_legacy_jaeeun.png",
+        "imageType": "썸네일 이미지"
+      },
+      "relatedPostConfig": null,
+      "editor": {
+        "id": 1583,
+        "name": "나재은",
+        "slug": "jaeeun-na",
+        "shortDescription": "토스페이먼츠 Server Developer",
+        "description": "토스페이먼츠 나재은",
+        "imageUrl": "https://static.toss.im/3d-emojis/u1F9D0.png",
+        "url": null,
+        "facebook": null,
+        "twitter": null,
+        "instagram": null,
+        "postCount": 3,
+        "ogConfig": null,
+        "seoConfig": null,
+        "priority": 1000,
+        "isDisplaying": false,
+        "isHomeRecommendation": false
+      },
+      "disclaimerConfig": null,
+      "shortDescription": "오타를 찾아보세요\n# 설정 1\nenv:\n  JVM_OPTION: \"-Xmx1024m -XX:+UseG1GC -XX:G1HeapRegionSize=8m ...\"\n\n# 설정 2\nenv:\n  JVM_OPTION: \"-Xmx2048m -XX:+UseG1GC -XX:G1HeapRegionSiez=8m ...\"\n자, 여기 두 개의 ",
+      "fullDescription": "오타를 찾아보세요\n# 설정 1\nenv:\n  JVM_OPTION: \"-Xmx1024m -XX:+UseG1GC -XX:G1HeapRegionSize=8m ...\"\n\n# 설정 2\nenv:\n  JVM_OPTION: \"-Xmx2048m -XX:+UseG1GC -XX:G1HeapRegionSiez=8m ...\"\n자, 여기 두 개의 설정이 있습니다. 이 중에서 다른 점을 찾아보세요. 금방 찾으셨나요? 정답은 설정 2 의 G1HeapRegionSiez 부분이었습니다. 만약 이런 설정이 2,000개가 넘는다면 어떨까요? 실수하기 너무 좋은 상황이 될 것 같습니다.\n여러분은 배치 서버를 몇 개까지 운영해 보셨나요? 사실 각각의 문자열은 배치 설정이었고, 설정 2 는 오타가 존재하는 잘못 설정된 배치였습니다. 더 큰 문제는, 이 오타 설정을 가진 배치가 무려 50억 규모의 돈을 정산하는 배치였다는 점입니다.\n\n설정 중복은 인프라 장애로 이어진다\n안녕하세요. 토스페이먼츠 서버플랫폼 팀 리더 나재은입니다.\n저희 서버플랫폼 팀은 Kubernetes, AWS, 사내 운영 도구 등 개발자와 가까운 곳에서 정책을 만들고 인프라를 운영하고 있습니다. 매일 수천억 원을 정산하는 수천 개의 배치 설정과, 수천 개의 API 서버 설정을 관리해야 합니다.\n수천 개의 API 서버 설정이 대부분 비슷하겠죠. 그러나 조금씩은 다르다면 어떻게 해야 할까요? 코드 중복이 버그로 이어지듯, 설정 중복은 인프라 장애로 이어집니다.\n단 하나의 설정 체계로, AWS 및 IDC에 있는 하이브리드 클라우드 환경에서 수천 개 서버를 한 번에 제어할 수 있다면 어떨까요? 중복 없이 테스트 가능한 설정 체계가 있으면, 이 문제를 해결할 수 있습니다.\n오늘은 토스페이먼츠 서버플랫폼 팀이 '설정' 하나로 얼마나 깊이 고민하고 문제를 해결해왔는지 공유하고자 합니다. 저희는 설정도 코드 개발처럼 바라보고 설계하고 있습니다.\n실시간 API 서버 설정, 배치 설정, 이렇게 두 부분으로 나눠서 경험을 풀어드릴게요.\n\nPart 1: 실시간 API 서버 설정\n문제: 복사-붙여넣기의 악순환\nDevOps의 첫 번째 고객은 역시 개발자죠. 설정은 결국 개발자의 요구사항들이 모이는 지점입니다.\n예를 들어:\n모든 서버에 공통 환경 변수를 넣고 싶다\nJava Heap 메모리를 올리고 싶다\n과거에는 복잡한 설정 YAML을 복사해서 붙여넣는 방식으로 대응했어요. 처음에는 빠르고 좋아 보였지만, 시간이 지나면서 설정은 점점 복잡해졌고 실제로 실수도 많이 했습니다. 결국엔 인프라 장애로 이어질 뻔한 상황도 있었죠.\n해결책 1: 오버레이 아키텍처\n\nAPI 서버 설정에서 저희가 선택한 해결책은 크게 두 가지인데요, 그중 첫 번째는 오버레이 아키텍처 입니다.\n오버레이 아키텍처는 설정값들을 조합 가능한 계층 형태로 구성한 뒤, 하나의 결과물로 해석하는 방법입니다. 저희는 각 계층을 global, cluster, phase 이런 순서대로 나누었습니다. 아래에 있을수록 우선순위가 높습니다. 따라서 맨 위에 있는 계층은 기본값처럼 동작하게 됩니다.\n\n계층별 역할\n저희가 정의한 계층들은 각 요구사항에 맞게 정의되어 있습니다. 각 계층의 예시는 아래와 같습니다.\n\ncluster: K8S cluster마다 달라지는 docker registry URL 같은 설정 \napp-group: 프론트엔드 애플리케이션에서 공통으로 사용하는 npm 주소\nphase: 개발/스테이징/프로덕션 환경별 설정\napp: 개별 애플리케이션 설정\n이러한 계층은 개발자의 요구사항에 따라 계속 추가될 수 있습니다.\n서버는 이 설정 레이어를 어떻게 인식할까요? 모든 설정을 얇게 여러 개 겹쳐놓고, 아래에서 바라봅니다. 서버는 아래에서 올려다보고, 자신의 위치와 가장 가까운 설정값을 인식하는 거죠.\n\n실제로 사용중인 설정 디렉토리 구조\napplications         # application 구성 예시\n│                    \n├── my-service\n│ ├── dev-api-01     # dev api 1호기\n│ │ ├── dev.json\n│ │ └── values.yaml\n│ ├── dev-api-02     # dev api 2호기\n│ │ ├── dev.json\n│ │ └── values.yaml\n│ ├── dev-consumer   # dev consumer\n│ │ ├── dev.json\n│ │ └── values.yaml\n│ ├── dev-batch      # dev batch\n│ │ ├── dev.json\n│ │ └── values.yaml\n│ ├── staging-api\n│ │ ├── prod.json\n│ │ └── values.yaml\n│ ├── live-api       # live api\n│ │ ├── prod.json\n│ │ └── values.yaml\n│ ├── docs           # 문서 배포는 dev 환경에만\n│ │ ├── dev.json\n│ │ └── values.yaml\n│ └── values-app-common.yaml    # my-service 전체에서 사용되는 공통 설정\n│\n├── values-apptype-api-common.yaml      # api 서버 공통 설정\n├── values-apptype-consumer-common.yaml # consumer 서버 공통 설정\n├── values-cluster-dev-1-common.yaml    # dev H/A 클러스터 1\n├── values-cluster-dev-2-common.yaml    # dev H/A 클러스터 2\n├── values-cluster-live-1-common.yaml   # live H/A 클러스터 1\n├── values-cluster-live-2-common.yaml   # live H/A 클러스터 2\n├── values-cluster-live-3-common.yaml   # live H/A 클러스터 3\n├── values-cluster-live-4-common.yaml   # live H/A 클러스터 4\n├── values-global-common.yaml           # global 공통 설정  \n├── values-phase-dev-common.yaml        # dev 환경 공통 설정\n├── values-phase-sandbox-common.yaml    # sandbox 환경 공통 설정\n├── values-phase-staging-common.yaml    # staging 환경 공통 설정\n└── values-phase-live-common.yaml       # live 환경 공통 설정\n각 파일이 관련된 계층에 1:1 대응하도록 구성되어 있습니다. applications 디렉토리에 각 서비스들이 존재하며, app 설정들이 여기에 들어갑니다.\napp 이외의 설정들은 네이밍 컨벤션을 통해 정의됩니다. phase 계층의 경우 여러 개가 존재할 수 있기 때문에, CI/CD 과정에서 현재 환경에 맞는 값이 선택되어 적용됩니다.\nCI/CD 에서도 이 설정을 바라보도록 통합했기 때문에, \"개발 환경에서는 카나리 배포를 생략해\"와 같은 동작도 모두 한 곳에서 제어할 수 있습니다.\n\n오버레이가 만능은 아니다\n오버레이 아키텍처, 상당히 멋있죠? 그러나 아쉽게도 오버레이 아키텍처만으로는 모든 것을 해결할 수 없습니다.\n예를 들어, 특정 환경 변수의 값이 너무 길다면 어떨까요? YAML은 key-value 단위로 구분하기 때문에, 값이 배열인 경우 중복을 제거하기 어렵습니다.\n예를 들어, JVM_OPTION에서 Heap 메모리만 수정하고 싶은데 전체를 모두 다시 정의해야 하는 문제가 발생합니다. 이러면 힙 메모리 설정만 다른 수백 개의 JVM_OPTION 환경 변수가 생기게 됩니다. 위험하죠.\n# 문제 상황: Heap 메모리만 바꾸고 싶은데...\nenv:\n  JVM_OPTION: \"-Xmx1024m -XX:+UseG1GC -XX:G1HeapRegionSize=8m ...\"\n\n# 매번 전체를 다시 작성해야 한다\nenv:\n  JVM_OPTION: \"-Xmx2048m -XX:+UseG1GC -XX:G1HeapRegionSize=8m ...\"\n해결책 2: 템플릿 패턴\n이 문제를 해결하기 위해, 템플릿 패턴을 도입했습니다. JVM_OPTION 같은 문자열 내부에, 중괄호를 활용해 값을 채워 넣을 수 있게 만들었습니다.\n가장 간단한 경우\n# global 계층\nenv:\n  JVM_OPTION: \"-Xmx{{MAX_HEAP}}m -XX:+UseG1GC\"\n  MAX_HEAP: 1024\n\n# my-service 계층\nenv:\n  MAX_HEAP: 2048\n\n# 최종 결과\nenv:\n  JVM_OPTION: \"-Xmx2048m -XX:+UseG1GC\"\n  MAX_HEAP: 2048\n이제 JVM_OPTION의 값은 일종의 템플릿처럼 동작하며, my-service라고 하는 애플리케이션에서는 이제 최대 2048메가의 힙 메모리가 할당됩니다.\n오버레이와 템플릿 조합\n템플릿도 여전히 설정이기 때문에, 오버레이 아키텍처 위에서 동작합니다.\n# global 계층\nenv:\n  JVM_OPTION: \"-Xmx{{MAX_HEAP}}m -XX:+UseG1GC -XX:G1HeapRegionSize={{REGION_SIZE}}m\"\n  MAX_HEAP: 1024\n  REGION_SIZE: 8\n\n# live 환경 (phase 계층)\nenv:\n  MAX_HEAP: 4096\n  REGION_SIZE: 16\n\n# 최종 결과\nenv: \n  JVM_OPTION: \"-Xmx4096m -XX:+UseG1GC -XX:G1HeapRegionSize=16m\"\n  MAX_HEAP: 4096\n  REGION_SIZE: 16\n템플릿 자체도 각 계층에 따라 우선순위가 다르게 해석되며, 최종적으로는 모든 값이 조합됩니다.\n더 나아가기: 설정에 코드를 넣기\n설정은 코드로서 해석할 수도 있습니다. 빌드 과정에서 필요한 파이썬 스크립트를 주입하여, 랜덤한 값을 선택하거나 동적으로 값을 가져올 수도 있습니다.\n# 설정 파일 내부에 Python 코드 삽입\nimport random\njmx_port_random = random.randint(10000, 20000)\nmy_remote_config = fetch_from_remote_api()\n선언된 jmx_port_random, my_remote_config 같은 변수들은 이제 설정값으로 사용할 수 있습니다. 물론 템플릿에서도 변수로 사용할 수 있죠.\n더 나아가기: 조건부로 값 적용하기\n이뿐만이 아닙니다. 로직을 넣기 까다로운 배열 내부에는 조건부 적용을 수행하는 특별한 설정을 추가했습니다.\ncommon:\n  phase:\n    env:\n\t\t\t- name: PROFILE\n\t\t\t  value: live\n\t\t\t- name: SPRING_PROFILES_INCLUDE\n\t\t\t  value: live-pg-aws\n\t\t\t  onTargetClusterNames: [live-1, live-2]\n\t\t\t- name: SPRING_PROFILES_INCLUDE\n\t\t\t  value: live-pg-dc1\n\t\t\t  onTargetClusterNames: [live-3, live-4]\n위의 설정은, 서버가 적용되는 클러스터가 서로 다른 경우, SPRING_PROFILES_INCLUDE 이라는 환경변수의 값이 조건부로 각각 달라진다는 의미입니다.\n핵심: 계속 진화할 수 있는 구조\n\n그렇다면 제가 소개드린 기능 중 가장 강력한 것은 무엇일까요? 딱 하나만 꼽으라면 뭘까요? 어떤 요구사항이든 무엇이든 구현 가능한 그런 기능이요.\n이 설정 체계의 가장 강력한 기능은 바로 ‘진화’입니다.\n사실 오버레이 아키텍처도, 템플릿 패턴도 처음부터 있었던 건 아닙니다. 인프라가 변하고 요구사항이 추가되면서, 단순한 YAML 덩어리에서 동적인 설정 인프라로 진화시켜나간 결과예요.\n제가 초반에 \"설정도 코드 개발처럼 바라보고 설계한다\"고 말씀드렸던 것, 기억나시나요? 그 말처럼, 토스페이먼츠의 API 설정 인프라는 이후 더 많은 요구사항이 추가되더라도 그에 맞춰 유연하게 적응할 수 있게 되었습니다.\n\nPart 2: 배치 서버 설정\n한 달에 수조 원!\n토스페이먼츠의 배치 서버는 매일 수십억 원의 거래 정산을 담당하고 있습니다. 이런 구조에서는 작은 설정 하나만 잘못돼도 정산이 누락되거나 금액이 잘못 계산되는 치명적인 장애로 이어질 수 있어요.\n항공모함 하나 가격이 수조 원 정도 한다고 합니다. 토스페이먼츠 배치 인프라는 매달 항공모함 하나를 구매할 수 있는 돈을 매일매일 다루는 거죠!\n적정 기술! Simple Is the Best!\n결론부터 말씀드리면, 이겁니다: \"단순한 게 최고다.\"\n이렇게 위험이 큰 도메인일수록, 복잡하기보다 단순한 인프라 구조가 더 강력합니다.\n저희는 여러 배치 솔루션을 검토했지만, 최종적으로는 Jenkins를 선택했습니다. 물론 Jenkins가 완벽한 솔루션은 아닙니다. 하지만 토스페이먼츠의 배치 로직을 제어하는 용도로는 충분하다고 판단했습니다. 학습 곡선도 꽤 낮고요.\n혹시 이와 관련된 내용이 더 궁금하시다면, 토스페이먼츠 ’레거시 정산 개편기’도 꼭 읽어보세요. 제 글은 인프라 개선이지만, 레거시 정산 개편기는 애플리케이션 도메인단의 개선이에요. 또 다른 재미가 있으실 겁니다.\n배치 설정에서 해결해야 하는 문제\n\n문제 1: 개발자의 반복 작업\nJenkins는 GitOps를 잘 지원하지 않는 단점이 있습니다. 개발자는 Jenkins Web UI를 통해 매번 bash script를 직접 입력해야 했고, 어디에 Java가 설치되어 있는지 알기 어려웠으며, 심지어는 장비마다 설치된 Java 버전까지 조금씩 달랐습니다.\n장비 환경이 다른 것 뿐만 아니라 Jenkins Job마다 Java를 실행하는 스크립트도 조금씩 달랐어요. 뭐가 잘 안되면 저희 팀이 처음부터 끝까지 모든 실행 흐름을 하나씩 점검해가며 해결을 해야 했고, 그럴 때 마다 저희는 눈물을 흘렸습니다.\n그래서 저희는 ’선언만 하면 사용할 수 있는’ 공통 구조를 만들기로 했습니다.\n문제 2: 메모리 부족\nJenkins 워커 장비의 메모리 부족 문제도 있었죠. 하나의 Jenkins 워커에 몇 개의 프로세스를 실행해야 적절한 리소스 활용일까요? 복수 개의 프로세스가 장비의 리소스를 동시에 사용하는 시간이 존재하기 때문에, 이때 메모리 부족으로 인한 프로세스 비정상 종료가 가끔씩 발생했습니다.\n해결책 1: Job-DSL 플러그인 어댑터\n\n첫 번째 솔루션은 ‘Job-DSL 플러그인 어댑터 구현’이고, 이는 개발자의 반복적인 설정 작업을 해결합니다.\nJob-DSL은 Groovy 코드로 Jenkins Job을 정의할 수 있게 해주는 Jenkins 플러그인입니다. 마치 쿠버네티스와 동일하죠. 이 플러그인을 그대로 사용하면, 복잡한 Jenkins 내부 구조와 설정 계층들을 이해해야만 합니다.\n저희는 이 플러그인을 한 번 감싸서, 개발자가 Jenkins를 쉽게 다룰 수 있도록 만들었습니다. 토스페이먼츠 개발자들은 Jenkins를 잘 몰라도, 단순히 Groovy 함수 호출만 할 수 있으면 사용할 수 있게 되었습니다.\n어댑터 예시: JavaRunJobBuilder\n어댑터의 실체는 일종의 빌더 패턴으로 만든 선언형 클래스입니다.\nimport com.tosspayments.jenkinsconfigs.JavaRunJobBuilderV2\nimport com.tosspayments.jenkinsconfigs.JavaVersion\nimport com.tosspayments.jenkinsconfigs.sharedlibrary.JobNames\nimport com.tosspayments.jenkinsconfigs.sharedlibrary.NodeLabel\nimport com.tosspayments.jenkinsconfigs.sharedlibrary.MonitoringChannel\n\n// 이렇게만 선언하면, Jenkins UI에 \"MyFirstJenkinsBatch\" 이라는 이름의 Job이 생성됩니다\nnew JavaRunBatchJobBuilder()\n  .jobName(\"MyFirstJenkinsBatch\")\n  .jobWorkerNodeSpecification(NodeLabel.runnerDynamicallyProvisioned_cpu8_mem16g_default)  // Job은 이 장비를 **독점해서** 사용할 수 있습니다.\n  .jobParameters({\n    dateParameterDefinition {   // Jenkins 에 별도로 설치된 custom plugin 까지 같이 사용할 수 있습니다\n      name(\"InputDateParam\")\n      dateFormat(\"yyyy-MM-dd\")\n      defaultValue(\"LocalDate.now()\")\n      description(\"날짜를 입력해주세요\")\n    }\n    stringParam {\n      name(\"InputStringParam\")\n      description(\"문자열을 입력해주세요\")\n    }\n  })\n  .gitRepositoryUrl(\"https://github-in-tosspayments/tosspayments/my-batch\")\n  .applicationName(\"my-batch-application\")\n  .applicationPhase(\"dev\")  // 토스페이먼츠의 표준 application phase 에 맞게 선언됩니다\n  .javaVersion(JavaVersion.JDK_21)\n  .javaVmOptions([\n    \"-Dspring.batch.job.names=MyFirstBatch1\",\n    \"-Dspring.profiles.active=${applicationPhase}\"\n  ])\n  .javaHeapSize(\"4g\")\n  .triggerCronScheduleExpression(\"15 8 29 3,6,9,12 *\")\n  .monitoringChannel(MonitoringChannel.pgSettlementBatchError)  // 토스페이먼츠의 표준 모니터링 시스템과 자동으로 연동됩니다\n  .jmxPrometheusJavaAgentEnabled(true)\n  .jmxAsyncProfilerEnabled(true)\n  .jmxAsyncProfilerOptions([\"start\", \"event=cpu\"])\n  .javaThreadDumpEnabled(true)\n  .javaThreadDumpIntervalInSeconds(30)\n  .pinpointAgentEnabled(true)\n  .scavengerEnabled(true)\n  .build(this)\n이 파일을 IDE에서 열고 클래스에 점만 찍으면, 자동완성으로 어떤 설정이 있는지 쭉 보이도록 만들었어요.\n자세히 보시면 Job 이름 같은 간단한 설정부터, Java version, JVM option, 토스페이먼츠 공통 모니터링 인프라 연동 설정까지. Jenkins만의 설정뿐 아니라, 개발자가 배치에 기대하는 모든 설정을 한 곳에서 제어할 수 있습니다.\n특히 Pinpoint, Scavenger, Prometheus, Async profiler 등 개발자가 직접 연동하기 까다롭거나 장비 환경에 의존적인 설정들도, 선언만 하면 어떤 배치 장비에서 수행하더라도 동일한 개발자 경험을 제공할 수 있게 만들었어요.\nGroovy 코드이기 때문에, 반복문을 통해 수십 개의 배치를 한 번에 만들 수도 있고, 조건문을 통해 환경별로 다른 배치를 만들 수도 있어요. \n토스페이먼츠의 개발자가 만족할 때까지\n\n뿐만 아닙니다. 방금 보신 것은 JavaRunBatchJob으로 Java 배치 애플리케이션을 실행할 때 사용하는 클래스예요. \n개발자분들은 Jenkins에서 빌드도 하고 싶고 배포도 하고 싶고, Jenkins Pipeline도 쓰고 싶고, 심지어 Shell 명령어까지 직접 호출하고 싶을 거예요.\n해당하는 모든 요구사항에 대한 패턴을 미리 다 만들어 두었습니다. 개발자가 \"이런 기능은 없나요~?\"하면 저희가 만들어드리는 거죠.\nJob-DSL 플러그인 어댑터가 가져온 변화\n그럼에도 개발자가 실수를 할 수 있을까요? 그럼요. 실제로 있었던 일인데, STAGING 장비에 LIVE 배치를 할당한 적도 있었습니다. \n설정은 Groovy 코드로 작성되기 때문에, 테스트가 가능하죠. 설정이 적용되기 전에 테스트를 수행해 이러한 업무 규칙이 어긋나지 않았는지를 검증하도록 만들었습니다. 배포 안정성이 더욱 올라갔어요. 덕분에 개발자들이 실수해도, 잘못된 설정이 운영 환경에 적용되는 것을 근본적으로 막아낼 수 있습니다. \n뿐만 아니라 내부적으로 Pinpoint 연동, Heap Dump 수행과 같은 토스페이먼츠 공통 인프라 새로운 기능을 추가하더라도, 그 연동 자체는 DevOps가 중앙에서 한 번만 수행하면 됩니다. 물론 개발자분들께는 켜고 끌 수 있는 옵션들을 제공해 드렸죠.\n해결책 2: Dynamic Provisioning 인프라\n\n두 번째 솔루션은 ‘Dynamic Provisioning 인프라 도입’이고, 이는 앞서 설명드린 배치의 메모리 부족 문제를 해결합니다.\n한 노드에 몇 개의 프로세스를 실행하지?\n이제 설정은 다루기 쉬워졌지만, 어떤 노드에 몇 개의 Java 프로세스를 띄울지는 또 다른 문제였습니다.\n\n노드 하나에 프로세스 하나만 실행하자니, 자원이 아깝고\n여러 개 넣자니, 메모리가 부족해서 프로세스가 중단되기 때문이죠.\n동적 프로비저닝의 해법\n인프라는 단순해야 됩니다. 무조건 전용 노드를 붙여주면, 문제를 간단하게 해결할 수 있습니다. 문제는 비용이죠.저희는 시간에 따라 전용 노드가 동적으로 늘어나고 줄어들게 만들었습니다.\n프로비저닝 실행 흐름:\n\n배치 실행 요청이 들어옴\n사용 가능한 노드가 부족한 경우 새 노드를 자동으로 프로비저닝\n새 노드에 Jar 파일 등 필요한 자원을 자동으로 배포\n배치 프로세스 실행\n오랜 기간 사용하지 않은 노드는 자동으로 종료\n이제 여러 개의 서로 다른 Java 프로세스가 같은 노드를 경쟁하듯 사용하지 않습니다. 노드가 부족한 경우 장비를 동적으로 받아옵니다.\n새 장비에는 배치 프로세스를 즉시 실행할 수 있게 Jar 파일 등이 준비되어야 합니다. 때문에 배치 빌드 배포 프로세스에 대한 경로 표준화 작업이 같이 필요했습니다. 그래야 Jar를 동적으로 가져올 수 있기 때문이죠.\n이제 배치가 한 번에 수십 개씩 병렬적으로 실행되더라도, 개발자는 더 이상 인프라 용량에 대해 신경 쓰지 않아도 됩니다. 또한 오랜 기간 사용하지 않은 장비는 자동으로 종료됩니다. 비용 문제를 해결한 거죠.\n각 장비는 기본적으로 한 번 쓰고 버리는 형태로 사용이 가능하므로, OS 보안 패치 등 커널 수준의 작업도 매우 적은 비용으로 가능해졌습니다.\n개발자와 DevOps 간의 단일 업무 인터페이스 구축\n\n이러한 설정 구조와 인프라 추상화 덕에, 개발자는 애플리케이션 로직 개발에 더 집중할 수 있게 되었습니다. 리소스 걱정 없이 모든 메모리와 CPU를 전용으로 할당받고, 더 높은 메모리가 필요한 경우에도 단순히 Groovy 코드 한 줄만 바꾸면 끝입니다.\n무엇보다 중요한 것은, 배치 설정 또한 개발자와 DevOps 간의 단일 업무 인터페이스가 생겼다는 사실입니다. 이후에 새로운 인프라 요구사항이 발생하더라도 DevOps는 적은 비용으로 이를 구현할 수 있습니다.\n자, 여기서 아까의 그 질문을 다시 드릴게요. 배치 설정 체계의 가장 강력한 기능은 무엇일까요?\n\n배치의 핵심도 여전히: 계속 진화할 수 있는 구조\n\n네, 맞습니다. 똑같이 \"진화\"입니다.\nAPI 설정 체계의 핵심도 진화였죠. 배치 설정도 마찬가지입니다. Jenkins Web 클릭 반복 작업부터 시작해, 비용까지 챙긴 Dynamic Provisioning 구조까지.\n항상 어떠한 요구사항에 맞게 설정 인프라가 진화한다는 점이 공통점입니다. 설정도 일종의 소프트웨어라는 것이지요.\n\n머나먼 여정의 결과\n\n25년 9월, JDK 25가 릴리즈 된 사실을 알고 계신가요? 토스 컨퍼런스에서 이 발표를 할 당시에는 JDK 25가 나오기 전이었는데, 이 글을 쓰는 시점에서는 이미 JDK 25를 사용해볼 수 있게 되었습니다.\n개발자들의 요구사항을 철저히 구현한 설정 체계를 보유한 토스페이먼츠에서는, 수백수천 대의 JDK 버전 변경은 이제 순식간에 가능합니다.\n또한 Pinpoint 같은 APM이 새로 개발되어 수백 대의 장비에 당장 적용해야 하더라도, 전혀 문제가 없습니다. 몇 명 안 되는 DevOps 엔지니어가 개발자 수십 명을 서포팅하는 거죠.\n\n여태까지의 요약\n단순히 복사-붙여넣기에서부터 시작한 설정이:\nAPI의 오버레이 아키텍처와 템플릿 패턴으로 확장되었고\n배치에서는 선언형 구조와 Dynamic Provisioning으로 진화했습니다.\n이 모든 것은 토스페이먼츠의 개발자들을 든든하게 받쳐줄 수 있는 기반 인프라가 되어 줍니다. 개발자들이 더 이상 설정 때문에 머리 아픈 일이 발생하지 않고, 이를 통해 레거시 개편도 하고, 성능 향상도 하고, 더 나은 API를 만드는 데 집중할 수 있게 도와줍니다.\n\n\n“그 다음은?”을 같이 고민하실 분을 찾습니다\n이렇게 API와 BATCH에 적용되는 각각의 설정을, 토스페이먼츠 서버플랫폼 팀이 어떻게 바라보고 생각하는지 같이 알아보셨습니다.\n이 여정은 끝이 아닙니다. 토스페이먼츠 인프라가 존재하는 한, 설정의 진화는 계속됩니다.\n그리고 이 설정의 진화처럼, 토스페이먼츠 서버플랫폼 팀 역시 계속 성장하고 있습니다. \"그 다음은?\"이라는 고민을 같이 하실 분을 저희는 기다리고 있겠습니다.\n이 자리에 계신 뛰어난 여러분들과, 언젠가 멋진 인프라를 함께 만들어 나갈 수 있기를 기대합니다. 토스페이먼츠 채용은 언제나 열려있습니다.\n감사합니다.\n\n✅ 이번 아티클은 Toss Makers Conference의 세션을 바탕으로 재구성되었습니다.\n\n\n",
+      "isDisplayingFeedback": true,
+      "quizzes": [],
+      "opinionForm": null,
+      "viewCount": 6349
+    },
+    {
+      "id": 44097,
+      "updatedTime": "2026-01-13T20:22:10+09:00",
+      "createdTime": "2026-01-08T10:09:53+09:00",
+      "category": "Engineering",
+      "categories": [
+        {
+          "name": "Engineering",
+          "id": 1024,
+          "slug": "engineering",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "Frontend",
+          "id": 2105,
+          "slug": "frontend",
+          "parentId": 1024,
+          "iconUrl": ""
+        }
+      ],
+      "series": null,
+      "seriesSlug": null,
+      "title": "디자인 시스템 다시 생각해보기",
+      "subtitle": "\"어떻게 하면 더 많은 팀이 우리 시스템을 잘 사용하게 할 수 있을까?\" TDS가 이 질문에 답하기 위해 고민했던 과정을 공유합니다.",
+      "bottomButtonConfig": {
+        "ctaType": "ONLY_BUTTON",
+        "imageUrl": null,
+        "imageAlt": "",
+        "title": "TDS를 만드는 민수님과",
+        "description": null,
+        "ctaName": "토스 Frontend UX Engineer 공고 보기",
+        "landingUrl": "https://toss.im/career/job-detail?job_id=4313193003&sub_position_id=4313193003&company=%ED%86%A0%EC%8A%A4",
+        "isSearchBottomCta": false,
+        "landingInExternalBrowser": false,
+        "serviceId": null,
+        "stockConfig": null,
+        "landingScheme": "supertoss://web?url=https%3A%2F%2Ftoss.im%2Fcareer%2Fjob-detail%3Fjob_id%3D4313193003%26sub_position_id%3D4313193003%26company%3D%25ED%2586%25A0%25EC%258A%25A4&external=true&clearHistory=true&swipeRefresh=true",
+        "landingExternal": "https://toss.im/career/job-detail?job_id=4313193003&sub_position_id=4313193003&company=%ED%86%A0%EC%8A%A4"
+      },
+      "coverConfig": {
+        "coverType": "NONE",
+        "imageUrl": null,
+        "videoUrl": null,
+        "backgroundColor": null,
+        "isFill": false,
+        "imageAlt": null
+      },
+      "thumbnailConfig": {
+        "imageUrl": "https://static.toss.im/3d-common/tds-kv-no-text-hero.png",
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "key": "rethinking-design-system",
+      "minAge": 0,
+      "isDisplaying": true,
+      "isDisplayingPublishedTime": true,
+      "workspaceId": 15,
+      "isPublished": true,
+      "publishedTime": "2026-01-08T10:19:00+09:00",
+      "likeCount": 0,
+      "commentBoard": null,
+      "relatedPostTitle": null,
+      "relatedPosts": [],
+      "disclaimer": null,
+      "seoConfig": {
+        "post": 44097,
+        "title": null,
+        "description": "안녕하세요! 토스의 디자인 시스템, TDS를 만들고 있는 Frontend UX Engineer 김민수입니다.디자인 시스템을 만들고 운영하다 보면 항상 같은 질문과 마주하게 됩니다. \"어떻게 하면 더 많은 팀이 우리 시스템을 잘 사용하게 할 수 있을까?\" 오늘은 TDS가 이 질문에 답하기...",
+        "urlSlug": "rethinking-design-system",
+        "primaryKeyword": {
+          "id": 43141,
+          "content": "tds",
+          "wordType": "SEO_KEYWORD"
+        },
+        "relatedKeywords": [
+          {
+            "id": 37486,
+            "content": "토스디자인시스템",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 37662,
+            "content": "toss design system",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 47299,
+            "content": "frontend",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59853,
+            "content": "design system",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59855,
+            "content": "ux engineer",
+            "wordType": "SEO_KEYWORD"
+          }
+        ],
+        "tags": []
+      },
+      "openGraph": {
+        "title": "디자인 시스템 다시 생각해보기",
+        "description": "안녕하세요! 토스의 디자인 시스템, TDS를 만들고 있는 Frontend UX Engineer 김민수입니다.디자인 시스템을 만들고 운영하다 보면 항상 같은 질문과 마주하게 됩니다. \"어떻게 하면 더 많은 팀이 우리 시스템을 잘 사용하게 할 수 있을까?\" 오늘은 TDS가 이 질문에 답하기...",
+        "backgroundColor": "#424242",
+        "imageAlt": null,
+        "imageUrl": "https://static.toss.im/3d-common/tds-kv-no-text-hero.png",
+        "imageType": "썸네일 이미지"
+      },
+      "relatedPostConfig": null,
+      "editor": {
+        "id": 2769,
+        "name": "김민수",
+        "slug": null,
+        "shortDescription": null,
+        "description": null,
+        "imageUrl": null,
+        "url": null,
+        "facebook": null,
+        "twitter": null,
+        "instagram": null,
+        "postCount": 1,
+        "ogConfig": null,
+        "seoConfig": null,
+        "priority": 1000,
+        "isDisplaying": false,
+        "isHomeRecommendation": false
+      },
+      "disclaimerConfig": null,
+      "shortDescription": "안녕하세요! 토스의 디자인 시스템, TDS를 만들고 있는 Frontend UX Engineer 김민수입니다.\n디자인 시스템을 만들고 운영하다 보면 항상 같은 질문과 마주하게 됩니다. \"어떻게 하면 더 많은 팀이 우리 시스템을 잘 사용하게 할 수 있을까?\" 오늘은 TDS가 이 질문에 답하기 위해 고민했던 과정을 공유하려고 ",
+      "fullDescription": "안녕하세요! 토스의 디자인 시스템, TDS를 만들고 있는 Frontend UX Engineer 김민수입니다.\n디자인 시스템을 만들고 운영하다 보면 항상 같은 질문과 마주하게 됩니다. \"어떻게 하면 더 많은 팀이 우리 시스템을 잘 사용하게 할 수 있을까?\" 오늘은 TDS가 이 질문에 답하기 위해 고민했던 과정을 공유하려고 해요.\n\n디자인 시스템은 왜 점점 사용하기 어려워질까\n\n디자인 시스템은 명확한 약속을 가지고 출발합니다. 일관된 UI, 빠른 개발 속도, 효율적인 협업. 잘 설계된 시스템은 디자이너와 개발자 사이의 커뮤니케이션 비용을 줄이고, 반복되는 UI 의사결정에서 팀을 자유롭게 하며, 여러 플랫폼에서 동일한 사용자 경험을 제공하는 기반이 돼요.\n하지만 조직이 성장하고 제품이 다양해지면서, 견고해 보이던 시스템에도 균열이 생기기 시작합니다.\n\"이 버튼 컴포넌트에 배지를 함께 넣을 수 있나요?\"\n\"디자인은 업데이트됐는데 개발 패키지는 언제 반영되나요?\"\n\"우리 팀 상황에 맞게 살짝만 수정하고 싶은데...\"\n제품팀은 시스템의 제약 안에서 해결책을 찾다가, 결국 시스템을 우회합니다. Figma 컴포넌트를 detach하고, 디자인 시스템 패키지를 fork해서 로컬에서 수정해요.\n문제는 여기서 시작됩니다. 효율을 위해 만들어진 시스템이 어느 순간 새로운 마찰의 원인이 되어버린 것이죠.\n이 상황에서 필요한 것은 더 강력한 규칙이 아니라, 디자인 시스템을 바라보는 관점의 전환이었습니다.\n\n디자인 시스템도 제품이다\n디자인 시스템 팀과 제품 팀은 종종 이렇게 역할이 나뉘어요.\n\n디자인 시스템 팀: 공통 요소를 만드는 공급자\n제품 팀(서비스 개발 팀): 그 요소로 제품을 만드는 수요자\n공급자가 수요자의 니즈를 제때 충족하지 못하면 수요자는 스스로 해결해요. 이건 ‘일탈’이나 시스템의 제약에 어긋나는 잘못된 사용사례가 아닙니다. 우리가 제품을 만들 때 수요에 맞는 공급을 제공해야 하듯, 디자인 시스템도 수요에 맞는 공급으로 제공되어야 해요.\n간단한 예시를 준비해 봤어요.\n*토스에서는 Figma가 아닌, Deus라는 툴을 사용해요. 이해를 돕기 위해서 Figma를 예시로 작성되었어요.\n\nFigma를 사용하는 프로덕트 디자인에서는 흔히 이런 일이 벌어집니다.\n\nFigma 라이브러리 컴포넌트를 가져와서 사용해요.\n필요한 변형이 안 되면\n인스턴스를 detach해서 직접 고쳐서 사용해요.\ndetach는 당장 원하는 결과를 얻는 가장 빠른 선택이에요. 하지만 그 순간부터 해당 인스턴스는 시스템의 업데이트를 더 이상 받지 못하게 됩니다.\n\n개발 단계도 마찬가지예요. 디자인 시스템 컴포넌트가 현재 필요한 형태를 제공하지 않으면, 제품 팀은 패키지를 fork합니다.\n-import { Button } from \"@tds/mobile\"\n+import { Button } from \"../ui/tds\"\n그리고 로컬에서 살짝만 고쳐서 사용해요.\n-export function Button(props) {\n+export function Button(props) {\n+  // 팀 요구사항에 맞춘 임시 옵션\n+  const { tone = \"strong\", ...rest } = props\n   return (\n-    <TDSButton {...props} />\n+    <TDSButton data-tone={tone} {...rest} />\n   )\n }\n이 순간 생기는 것은 ‘빠른 해결’이 아니라, 시스템과의 연결이 끊긴 파편입니다.\n시스템은 계속 업데이트되지만 fork된 코드는 이를 따라가지 못해요. 결과적으로 사용자에게는 일관되지 않은 경험이 제공되고, 디자인 시스템이 약속한 핵심 가치가 무너집니다.\n디자인 시스템이 너무 경직되어 수요자의 문제를 해결하지 못하면 수요자는 자연스럽게 이탈하게 돼요. 그 결과 일관성이라는 가치는 유지되기 어려워집니다.\n디자인 시스템의 역할은 팀을 단속하는 게 아니라, 팀이 제품 문제를 풀 수 있게 도와주는 것에 더 가깝다고 생각해요.\n\n\n통제가 아닌 유연한 확장으로\nTDS는 이런 상황에서 디자인 시스템에 대한 관점을 재정립했어요.\n디자인 시스템도 하나의 제품이고,\n제품은 수요에 맞게 준비 되어야 합니다.\n\n예전의 저는, 디자인 시스템이라면 ‘시스템’에 집중해야 한다고 생각했어요. 일관된 경험을 제공하도록 중앙 관리되어야 하고, 메이커들은 이러한 제약 위에서 디자인 시스템을 활용해 제품을 만들어야 한다고 생각했습니다.\n하지만 규모가 커질수록 디자인 시스템을 사용하는 메이커의 니즈와 상황은 예측의 범위를 벗어나게 돼요. 디자인 시스템이 제공하는 규약과 제한은 오히려 속도를 저해하게 되고, 결국 시스템을 우회하고 사용하지 않는 결과를 낳습니다.\n이런 상황에서도 ‘시스템’에 집중해 ‘제약’이나 ‘금지’를 강화하는 것은 문제를 근본적으로 해결하는 것이 아니었습니다. 우리가 eslint로 컨벤션을 아무리 만들어도, /* eslint-disable-next-line */ annotation 을 막을 수 없듯이 말이죠.\n중요한 것은 우회로를 없애는 통제가 아니라, 우회할 이유를 줄이는 설계였어요.\n\n\n확장성을 결정짓는 컴포넌트 API\n확장성 논의는 결국 컴포넌트 API 설계로 귀결됩니다. 대표적인 두 가지 접근법을 살펴볼게요.\n1) Flat 패턴\nFlat 컴포넌트는 내부 구조를 감추고, 대부분의 변형을 props로 제공하는 방식이에요.\n// Flat API: Card 예시\n\ntype CardProps = {\n  title: string\n  description?: string\n  actionLabel?: string\n  onActionClick?: () => void\n}\n\nfunction Card({ title, description, actionLabel, onActionClick }: FlatCardProps) {\n  return (\n    <section className=\"card\">\n      <header className=\"cardHeader\">\n        <h2>{title}</h2>\n        {actionLabel ? (\n          <button onClick={onActionClick}>{actionLabel}</button>\n        ) : null}\n      </header>\n\n      {description ? <p className=\"cardDesc\">{description}</p> : null}\n    </section>\n  )\n}\n\nexport { Card }\nexport type { CardProps }\n사용은 직관적입니다. 하지만 Flat API 설계의 단점은 분명해요.\n시스템이 상정하지 않은 요구가 등장하면 props는 끝없이 늘어나게 된다는 치명적인 한계가 있어요.\n위의 card를 예시로, \nactionLabel을 hover 했을 때 callback을 전달하고 싶다면 어떨까요?\nbutton이 아니라 anchor로 그려 href를 전달하고 싶다면 어떨까요? \n위와 같은 상황에서 flat한 설계는 추후 확장과 유지보수를 어렵게 합니다.\n\n2) Compound 패턴\nCompound 패턴은 하위 컴포넌트를 제공하고, 제품 팀이 직접 조합해서 쓰도록 제공하는 방식이에요.\n// Compound API: Card 예시\n\nfunction Card({ children }: { children: React.ReactNode }) {\n  return <section className=\"card\">{children}</section>\n}\n\nCard.Header = function CardHeader({ children }: { children: React.ReactNode }) {\n  return <header className=\"cardHeader\">{children}</header>\n}\n\nCard.Title = function CardTitle({ children }: { children: React.ReactNode }) {\n  return <h2 className=\"cardTitle\">{children}</h2>\n}\n\nCard.Body = function CardBody({ children }: { children: React.ReactNode }) {\n  return <div className=\"cardBody\">{children}</div>\n}\n\nCard.Footer = function CardFooter({ children }: { children: React.ReactNode }) {\n  return <footer className=\"cardFooter\">{children}</footer>\n}\n\n// Object로 제공하는 것은 tree shaking에 불이익이 있어 namespace import로 제공해야 하지만, 이 글의 주제와는 별개의 내용이므로 간단한 예시를 준비했어요.\n\nexport { Card }\n\n사용하는 쪽은 이렇게 원하는 구조를 직접 만들 수 있습니다.\n<Card>\n  <Card.Header>\n    <Card.Title>월간 리포트</Card.Title>\n    <button>다운로드</button>\n  </Card.Header>\n\n  <Card.Body>\n    <ReportSummary />\n  </Card.Body>\n\n  <Card.Footer>\n    <small>최근 업데이트: 1시간 전</small>\n  </Card.Footer>\n</Card>\nFlat에 비해 Compound 패턴의 장점은 유연함이에요.\n시스템이 미리 예측하지 못한 레이아웃도 조합으로 해결이 가능해요.\n‘확장 지점’이 코드 레벨에서 자연스럽게 제공돼요.\n\n하지만 Compound 패턴도 만능은 아니에요.\n사용하는 측에서의 구현 난이도와 코드량이 늘어나게 돼요.\n변형 여지가 거의 없는 컴포넌트까지 Compound로 만들면 사용하기 오히려 불편해지는 상황이 발생해요.\n\ntitle만 설정하는 카드 컴포넌트가 필요하다고 가정해 볼게요.\n\n\n<Card title=\"월간 리포트\">\n  <ReportSummary />\n</Card>\n\n\n<Card>\n  <Card.Header>\n    <Card.Title>월간 리포트</Card.Title>\n  </Card.Header>\n\n  <Card.Body>\n    <ReportSummary />\n  </Card.Body>\n</Card>\n둘의 차이는 분명합니다. Flat API는 사용 방법 또한 간결하고, Card라는 컴포넌트 외에 알아야 할 것이 많지 않아요. 반면 Compound API는 개발자가 Card의 구조를 이해하고 있어야 합니다. Header 안에 Title이 들어가야 하는지, Body는 필수인지 등 학습해야 할 것들이 많아요.\ndot operator로 하위 컴포넌트를 탐색할 수 있지만, 올바른 조합 방법을 찾는 것은 또 다른 러닝커브입니다. 결과적으로 '친절한 도구'보다는 '번거로운 도구'로 경험될 수 있습니다.\n\n\nFlat과 Compound를 함께 제공하기\n그래서 TDS는 ‘어떤 패턴이 옳은가’가 아니라, ‘언제 어떤 선택이 적절한가’에 집중했습니다.\n단순하고 자주 쓰는 케이스는 Flat API\n복잡하고 변형이 잦은 케이스는 Compound API\n다시 말해, 둘 중 하나가 아니라 둘을 함께 제공하는 하이브리드 전략을 택했어요.\n\n사용자는 다음과 같이 상황에 따라 선택할 수 있습니다.\nimport { Card as FlatCard, Button, Badge } from \"@tds/mobile/flat\"\nimport { Card } from \"@tds/mobile\"\n\n// 1) Flat: 별도의 커스텀이 필요 없다면\n<FlatCard\n  title=\"월간 리포트\"\n  description=\"이번 달 요약을 확인하세요\"\n  actionLabel=\"다운로드\"\n  onActionClick={download}\n/>\n\n// 2) Compound: 필요할 때, 필요한 곳에 커스텀을 사용자가 직접 할 수 있도록\n<Card>\n  <Card.Header>\n    <div style={{ color: 'red' }}>\n      <Card.Title>월간 리포트</Card.Title>\n      <Badge>Beta</Badge>\n    </div>\n    <Button onClick={download}>다운로드</Button>\n  </Card.Header>\n  \n  <Card.Body>\n    <ReportSummary />\n  </Card.Body>\n</Card>\n디자인 시스템 팀 입장에서는 API를 두 벌 관리해야 한다고 생각할 수 있지만, Flat API를 Compounds로 미리 조립한 케이스라고 생각하면 코드는 하나의 primitive로 관리될 수 있어요.\n// Flat API: Card 예시\n\nimport { CardRoot, CardHeader, CardTitle, CardBody } from \"@tds-primitive/mobile\"\n\ntype CardProps = {\n  title: string\n  children: React.ReactNode\n}\n\nfunction Card({ title, children }: CardProps) {\n  return (\n    <CardRoot>\n      <CardHeader>\n        <CardTitle>{title}</CardTitle>\n      </CardHeader>\n      <CardBody>{children}</CardBody>\n    </CardRoot>\n  )\n}\n\nexport { Card }\nexport type { CardProps }\n외부에 제공되는 API는 두 가지지만, 내부 구현은 동일한 primitive 레이어를 재사용합니다. 유지보수 부담 없이 사용자 경험을 최적화할 수 있는 구조예요.\n\n\n디자인 시스템 다시 생각해보기\n저는 이 글을 통해 질문을 던지고 싶었습니다.\n중앙에서 모든 것을 통제하는 방식이 정말 효율적일까요?\n일관성을 지키는 방법은 오직 '금지' 뿐일까요?\n수요가 없는 디자인 시스템은 제약을 걸 수도 없고, 일관성이라는 가치도 지킬 수 없습니다. 팀들은 이미 시스템 밖에서 자체적으로 해결하고 있기 때문이죠.\n디자인 시스템은 권장하는 규칙을 제공하되 그 규칙에서 벗어난 예외 상황도 지원 가능해야한다고 생각해요.\n\n우리가 만드는 디자인 시스템은 팀을 지키는 가드레일일까요, 아니면 팀을 멈추게 하는 울타리일까요?\n지금 여러분의 디자인 시스템을 이런 관점에서 다시 한번 바라보면 어떨까요?\n\n",
+      "isDisplayingFeedback": true,
+      "quizzes": [],
+      "opinionForm": null,
+      "viewCount": 22452
+    },
+    {
+      "id": 43381,
+      "updatedTime": "2026-01-13T20:06:10+09:00",
+      "createdTime": "2025-12-09T16:42:23+09:00",
+      "category": "Engineering",
+      "categories": [
+        {
+          "name": "Engineering",
+          "id": 1024,
+          "slug": "engineering",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "Security",
+          "id": 2119,
+          "slug": "security",
+          "parentId": 1024,
+          "iconUrl": ""
+        }
+      ],
+      "series": null,
+      "seriesSlug": null,
+      "title": "LLM을 이용한 서비스 취약점 분석 자동화 #1",
+      "subtitle": "보안 분석가라면 누구나 한 번쯤 상상했을 ‘해줘’로 취약점 찾기. 그 경험을 공유해 드립니다.",
+      "bottomButtonConfig": {
+        "ctaType": "ONLY_BUTTON",
+        "imageUrl": null,
+        "imageAlt": null,
+        "title": null,
+        "description": null,
+        "ctaName": "토스 Security Researcher가 궁금하다면?",
+        "landingUrl": "https://toss.im/career/job-detail?job_id=4555752003&sub_position_id=4555752003&company=%ED%86%A0%EC%8A%A4&utm_source=techblog",
+        "isSearchBottomCta": false,
+        "landingInExternalBrowser": false,
+        "serviceId": null,
+        "stockConfig": null,
+        "landingScheme": "supertoss://web?url=https%3A%2F%2Ftoss.im%2Fcareer%2Fjob-detail%3Fjob_id%3D4555752003%26sub_position_id%3D4555752003%26company%3D%25ED%2586%25A0%25EC%258A%25A4%26utm_source%3Dtechblog&external=true&clearHistory=true&swipeRefresh=true",
+        "landingExternal": "https://toss.im/career/job-detail?job_id=4555752003&sub_position_id=4555752003&company=%ED%86%A0%EC%8A%A4&utm_source=techblog"
+      },
+      "coverConfig": {
+        "coverType": "NONE",
+        "imageUrl": null,
+        "videoUrl": null,
+        "backgroundColor": null,
+        "isFill": false,
+        "imageAlt": null
+      },
+      "thumbnailConfig": {
+        "imageUrl": "https://static.toss.im/illusts/img-security-qna.jpg",
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "key": "vulnerability-analysis-automation-1",
+      "minAge": 0,
+      "isDisplaying": true,
+      "isDisplayingPublishedTime": true,
+      "workspaceId": 15,
+      "isPublished": true,
+      "publishedTime": "2025-12-24T17:28:00+09:00",
+      "likeCount": 0,
+      "commentBoard": null,
+      "relatedPostTitle": null,
+      "relatedPosts": [],
+      "disclaimer": null,
+      "seoConfig": {
+        "post": 43381,
+        "title": null,
+        "description": "보안 분석가라면 누구나 한 번쯤 상상했을 ‘해줘’로 취약점 찾기. 그 경험을 공유해 드립니다.",
+        "urlSlug": "vulnerability-analysis-automation-1",
+        "primaryKeyword": {
+          "id": 59713,
+          "content": "취약점분석",
+          "wordType": "SEO_KEYWORD"
+        },
+        "relatedKeywords": [
+          {
+            "id": 37460,
+            "content": "보안 엔지니어",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 37462,
+            "content": "토스 보안",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 37464,
+            "content": "보안",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59715,
+            "content": "security",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59717,
+            "content": "security researcher",
+            "wordType": "SEO_KEYWORD"
+          }
+        ],
+        "tags": []
+      },
+      "openGraph": {
+        "title": "LLM을 이용한 서비스 취약점 분석 자동화 #1",
+        "description": "보안 분석가라면 누구나 한 번쯤 상상했을 ‘해줘’로 취약점 찾기. 그 경험을 공유해 드립니다.",
+        "backgroundColor": "#424242",
+        "imageAlt": null,
+        "imageUrl": "https://static.toss.im/illusts/img-security-qna.jpg",
+        "imageType": "썸네일 이미지"
+      },
+      "relatedPostConfig": null,
+      "editor": {
+        "id": 595,
+        "name": "표상영",
+        "slug": "pyozzi",
+        "shortDescription": "토스 Security Researcher",
+        "description": "-",
+        "imageUrl": "https://static.toss.im/assets/toss-tech/pyozzi.jpeg",
+        "url": null,
+        "facebook": null,
+        "twitter": null,
+        "instagram": null,
+        "postCount": 2,
+        "ogConfig": null,
+        "seoConfig": null,
+        "priority": 1000,
+        "isDisplaying": false,
+        "isHomeRecommendation": false
+      },
+      "disclaimerConfig": null,
+      "shortDescription": "안녕하세요. 토스 Security Researcher 표상영입니다.\n요즘 LLM이 정말 다양한 분야에서 활용되고 있죠. 토스에서도 여러 업무에 LLM을 접목하며 효율성을 높이고 있는데요. 그중에서도 LLM을 이용해 서비스 취약점 분석을 자동화한 경험을 공유해 보려고 합니다. 이번 글에서는 이 프로젝트를 진행하면서 마주했던",
+      "fullDescription": "안녕하세요. 토스 Security Researcher 표상영입니다.\n요즘 LLM이 정말 다양한 분야에서 활용되고 있죠. 토스에서도 여러 업무에 LLM을 접목하며 효율성을 높이고 있는데요. 그중에서도 LLM을 이용해 서비스 취약점 분석을 자동화한 경험을 공유해 보려고 합니다. 이번 글에서는 이 프로젝트를 진행하면서 마주했던 문제점과 그에 대한 해결책을 소개해 드리고, 이어서 2편에서 실제로 어떻게 구현했는지를 공유할 예정이에요.\n\nGoogle, Project Naptime\n구글에는 재미있는 프로젝트가 하나 있습니다.\n“LLM을 이용해 취약점 분석을 자동화하고 낮잠 시간을 만들자!”라는 목적의 Naptime(낮잠) 프로젝트가 바로 그것인데요.\n\n당시 ‘LLM이 자율적으로 소스코드를 분석하고 취약점을 찾는다’라는 것은 분석가들 머릿속에만 있는 상상 속의 무언가 였습니다. 저 또한 그런 생각을 갖고있던 찰나, 꽤 구체적인 아이디어와 함께 실제로 유의미한 결과를 도출한 Project Naptime 글을 흥미롭게 읽게 되었어요.\n\n글을 읽고 난 뒤, ‘정말 가능할까?’에서 ‘진짜 가능하구나!’라는 가능성을 확인하고, 곧 바로 길드(토스의 작은 프로젝트 그룹)를 만들고 길드원을 모으기 시작했습니다. 모든 팀원분들이 그랬지만, 새롭게 나오는 기술들로 공부해야할 것들은 너무 많았고 자원은 한정되어 있어서 리소스 절약이 정말 절실했거든요.\n\n시작부터 만만치 않았던 여정\n\"LLM으로 취약점 분석? 간단하겠네!\" 라고 생각하며 시작했지만, 현실은 녹록치 않았어요.\n첫 번째 벽: 대용량 소스코드를 어떻게 넣을까?\n가장 먼저 부딪힌 문제는 대용량 소스코드를 LLM에 넣어주는 것이었어요. 토스의 서비스들은 대부분 상당한 규모의 소스코드를 가지고 있는데, 이 모든 코드를 LLM의 토큰 한계 안에 맞추는 것부터 쉽지 않았습니다.\n처음에는 RAG(Retrieval Augmented Generation)를 시도해 봤어요. 코드를 벡터로 임베딩해서 필요한 부분만 가져오는 방식이었는데, 코드 간 연관관계를 제대로 파악하기 어려웠어요. 그래서 Repomix 같은 툴로 전체 소스코드를 압축해서 던져주는 것도 시도해 봤습니다. 하지만 결국 모든 시도가 토큰 문제로 실패했어요.\n설사 토큰 Context Size 안에 맞춘다고 해도 더 큰 문제가 있었어요. 바로 Hallucination이었습니다. 너무 많은 정보를 한 번에 처리하다 보니 LLM이 실제로는 없는 취약점을 만들어내거나, 코드의 흐름을 잘못 이해하는 경우가 빈번했거든요.\n해결책을 찾다: MCP로 자유롭게 소스코드 탐색하기\n여러 논문과 레퍼런스를 찾아본 결과, LLM Agent가 자유롭게 소스코드를 참조할 수 있도록 하는 MCP(Model Context Protocol)를 만드는 방향으로 해결할 수 있다는 걸 알게 됐어요.\n이를 위해 개발한 SourceCode Browse MCP는 다음과 같은 구조로 동작해요:\n\ntree-sitter: 소스코드의 구문 트리 분석\nctags: 함수와 변수의 정의 위치 인덱싱\nripgrep: 고속 텍스트 검색\n이렇게 소스코드를 사전에 인덱싱 해두면, LLM이 필요할 때마다 MCP Tool Calling을 통해 \"이 함수는 어디서 정의되지?\", \"이 변수는 어디서 사용되지?\" 같은 정보들을 효율적으로 참조할 수 있게 만들 수 있었어요.\n\n두 번째 벽: 일관성 없는 결과와 정확도\nMCP 덕분에 소스코드 참조 문제는 해결됐지만, 이제 정확도 문제가 발목을 잡았어요. 사용한 모델은 Claude-Sonnet-4 였는데, 취약점을 잘 찾긴 했지만 일관성이 없었거든요.\n예를 들어 XSS 취약점이 총 10개 있으면, 어떨 때는 8개만 찾고 2개를 빼먹고, 어떨 때는 10개를 다 찾기도 하고, 심지어 9개를 찾았다가 다시 돌리면 7개만 찾기도 하는 등 결과에 일관성이 없었어요. 이렇게는 도저히 LLM을 신뢰할 수 없었죠.\nSAST 도구와의 만남: CodeQL vs Semgrep\n이 문제를 해결하기 위해 SAST(Static Application Security Testing) 도구를 결합하기로 했습니다. 대표적인 오픈소스 SAST 도구로는 CodeQL과 Semgrep이 있습니다. 저는 평소 취약점 분석을 할 때, CodeQL을 애용하기 때문에 당연하게도 CodeQL을 사용하려고 했었는데요.\nCodeQL의 경우 다음과 같은 한계가 있었어요:\n\n프로젝트를 빌드하는 과정이 반드시 필요\n항상 빌드가 성공되는 Reliable한 DevOps 환경 구축 필요\n빌드 과정에서 상당한 Compute cost 발생\n무엇보다 라이선스 문제가 가장 컸어요 (오픈소스 프로젝트가 아니면 유료)\nSemgrep은 훨씬 가벼웠어요:\n\n빌드 과정 불필요\n적은 Compute cost\nCodeQL만큼의 Semantic Analysis는 불가능하지만, 저희 목적에는 문제 없었어요\n왜냐하면 제가 SAST 도구로 하려는 건 취약점 분석이 아니라 모든 Source→Sink 경로를 수집하는 것이었거든요.\n핵심 아이디어: 모든 입력 경로를 빠짐없이 분석하기\n취약점은 결국 신뢰할 수 없는 입력(Untrusted Input)으로부터 발생합니다. 그래서 다음과 같은 전략을 세웠어요:\n\nSAST로 모든 Source(입력)에서 Sink(함수)로 도달하는 경로를 수집\n수집된 모든 경로를 LLM이 빠짐없이 분석하게 함\n이렇게 하면 취약점을 누락하는 경우는 없을 거라고 판단\n실제로 이 방식을 적용하니 항상 취약점을 놓치지 않고 찾아내는 결과를 얻을 수 있었어요!\n\n세 번째 벽: 비용의 현실\n그런데 문제가 또 생겼어요. 모든 입력 경로를 다 분석하게 했더니, 분석할 필요가 없는 코드까지 분석하느라 쓸데없는 토큰이 너무 많이 소모되는 거예요.\n예를 들어 총 100개의 경로가 있으면 XSS가 발생할 수 있는 경로는 10개 뿐인데, 나머지 90개의 의미없는 경로도 분석하는 상황이었죠. 토큰은 곧 비용이니까 반드시 해결해야 하는 문제였어요.\nMulti-Agent로 효율성 높이기\n이 문제는 Multi-Agent 시스템으로 해결할 수 있었어요. 3개의 에이전트로 구성했습니다:\n\nSupervisor: Discovery와 Analysis 에이전트에게 상황에 맞는 적절한 지시를 내리는 감독관\nDiscovery: 수집된 모든 경로 중 취약점 발생 가능성이 높은 경로만 선별하는 필터\nAnalysis: Discovery가 선별한 경로에 대해서만 실제 취약점 분석 수행\n이렇게 구성하니 Discovery 에이전트가 거름망 역할을 해줘서, 실질적으로 취약점 분석이 필요한 경로만 Analysis 에이전트가 처리할 수 있었어요. 덕분에 비용도 줄이고 전체 분석 시간도 단축할 수 있었습니다.\n\n네 번째이자 가장 큰 벽: 지속 가능성\n여기까지는 기술적으로 성공적이었지만, 가장 중요한 문제가 남아있었어요. 바로 지속 가능성이었죠.\n토스에는 수백 개의 서비스가 있어요. 계산해보니:\n\n하나의 프로젝트에서 하루 3번 취약점 분석 수행\n1회 비용이 300원이라고 가정\n300개 프로젝트만 돌려도: 3 × 300 × 300 = 270,000원/일\n한 달이면 810만원...\n1회 비용을 100원으로 줄인다고 해도 월 270만원이니, 결코 지속 가능한 비용이 아니었어요.\nOpen Model로의 전환\n이 문제를 해결하려면 Cloud Model이 아닌 Open Model을 사용해야 했습니다. OpenAI도 GPT-OSS 같은 오픈 모델을 공개하고 있고, 이런 모델을 직접 호스팅하면 LLM 비용이 발생하지 않거든요.\n물론 Cloud Model보다 성능이나 안정성은 떨어지기 때문에, 이를 보완하기 위한 추가적인 노력이 필요했어요.\n후보 모델 선별과 ROI 비교\n취약점 분석에 적합하고 MCP 사용이 가능한 모델을 찾아본 결과, 3개 모델로 압축할 수 있었어요:\nQwen3:30B\ngpt-oss:20B\nllama3.1:8B\n실제 여러 유형의 취약점이 존재하는 샘플 프로젝트에서 3개의 IDOR 취약점을 찾는 테스트를 진행했어요. 결과는 다음과 같았습니다:\n\n\n\n\n\n비용 순위 (적은 토큰 소모)\n1️⃣ llama3.1:8B\n2️⃣ Qwen3:30B\n3️⃣ gpt-oss:20B\n정확도 순위\n1️⃣ Qwen3:30B \n2️⃣ gpt-oss:20B \n3️⃣ llama3.1:8B \n여기서 분석률은 모든 입력 경로에 대한 Coverage, 정탐률은 실제 취약점을 정확히 찾은 비율, 오탐률은 취약점이 아닌 것을 취약점으로 잘못 판단한 비율이에요.\n발생 비용과 정확도를 종합적으로 고려했을 때 Qwen3:30B가 가장 준수한 성능을 보였어요. gpt-oss는 정탐률과 오탐률에서 완벽한 결과를 보였지만, 커버리지가 떨어지고 MCP Tool Calling이 실패하는 경우가 잦았거든요.\nQwen3:30B 관련 논문이나 시장 평가를 보니 취약점 분석에서 좋은 성능을 보인다는 평가가 많아서 최종적으로 선택했어요.\n\n성능 보완 작업\nOpen Model은 아무래도 Cloud Model보다 성능이 떨어지기 때문에 보완하는 작업이 필요했어요:\n\n시스템 프롬프트와 Human Message를 더 엄격하고 체계적으로 개선\n기존 Cloud Model에 맡겼던 처리량보다 더 작은 task 단위로 분할해서 처리\n다양한 예외 상황에 대한 처리 로직 강화\n\n우리가 이뤄낸 결과\n이런 과정을 거쳐 최종적으로 정확도 95% 이상의 LLM 취약점 분석 자동화를 구현할 수 있었어요. 처음에는 단순히 ‘LLM으로 취약점 찾기’라는 아이디어로 시작했지만, 실제로는:\n\n대용량 소스코드 처리 문제\n일관성 없는 결과 문제\n비용 효율성 문제\n지속 가능성 문제\n이렇게 4단계의 벽을 차례대로 넘어야 했어요. 각 단계마다 기술적 해결책 뿐만 아니라 비용과 운영 측면까지 고려해야 했고, 때로는 성능을 일부 포기하더라도 실용성을 택해야 하는 선택의 순간들이 있었죠.\n실제로 어떻게 이 프로젝트를 구현했는지에 대한 더 자세한 내용은, 2편에서 이어서 소개해 드릴게요. 많은 기대 부탁드립니다!\n\n마치며\n이번 프로젝트를 통해 배운 가장 중요한 교훈은 \"기술적으로 가능한 것\"과 \"실제로 운영 가능한 것\" 사이에는 큰 차이가 있다는 점이었어요. LLM 기술 자체는 충분히 성숙했지만, 이를 실제 서비스에 적용하려면 비용, 성능, 안정성, 지속 가능성을 모두 고려한 종합적인 설계가 필요했거든요.\n앞으로도 토스에서는 이런 실용적인 AI 활용 사례들을 더 많이 만들어갈 예정이에요. 기술은 결국 사람을 위해 존재하는 것이니까, 화려한 기술보다는 정말 도움이 되는 기술을 만드는 데 계속 집중하려고 합니다.\n긴 글 읽어주셔서 감사합니다.\n",
+      "isDisplayingFeedback": true,
+      "quizzes": [],
+      "opinionForm": null,
+      "viewCount": 29000
+    },
+    {
+      "id": 43855,
+      "updatedTime": "2026-01-13T20:17:47+09:00",
+      "createdTime": "2025-12-23T16:51:43+09:00",
+      "category": "Engineering",
+      "categories": [
+        {
+          "name": "Engineering",
+          "id": 1024,
+          "slug": "engineering",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "인기글",
+          "id": 1058,
+          "slug": null,
+          "parentId": null,
+          "iconUrl": null
+        },
+        {
+          "name": "Frontend",
+          "id": 2105,
+          "slug": "frontend",
+          "parentId": 1024,
+          "iconUrl": ""
+        }
+      ],
+      "series": null,
+      "seriesSlug": null,
+      "title": "AST로 Outdated 없는 퍼널 문서 만들기",
+      "subtitle": "소스코드 기반으로 복잡한 퍼널 이동을 시각화한 경험을 공유합니다.",
+      "bottomButtonConfig": {
+        "ctaType": "NONE",
+        "imageUrl": null,
+        "imageAlt": null,
+        "title": null,
+        "description": null,
+        "ctaName": null,
+        "landingUrl": null,
+        "isSearchBottomCta": false,
+        "landingInExternalBrowser": false,
+        "serviceId": null,
+        "stockConfig": null,
+        "landingScheme": null,
+        "landingExternal": null
+      },
+      "coverConfig": {
+        "coverType": "IMAGE",
+        "imageUrl": "https://static.toss.im/illusts-content/1224_tech_thumb.png",
+        "videoUrl": null,
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "thumbnailConfig": {
+        "imageUrl": "https://static.toss.im/illusts-content/1224_tech_thumb.png",
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "key": "ast-funnel-visualization",
+      "minAge": 0,
+      "isDisplaying": true,
+      "isDisplayingPublishedTime": true,
+      "workspaceId": 15,
+      "isPublished": true,
+      "publishedTime": "2025-12-24T14:31:00+09:00",
+      "likeCount": 0,
+      "commentBoard": null,
+      "relatedPostTitle": null,
+      "relatedPosts": [],
+      "disclaimer": null,
+      "seoConfig": {
+        "post": 43855,
+        "title": null,
+        "description": "안녕하세요, 토스코어 Business Onboarding Team 프론트엔드 개발자 조성륜입니다.토스팀에 합류하고 처음 받은 과제는 판매자 입점 퍼널을 이해하는 것이었습니다. 판매자 입점 퍼널은 판매자가 토스페이에 가입하는 과정을 말해요.39개의 페이지 파일을 하나씩 열어보며 며칠을 보...",
+        "urlSlug": "ast-funnel-visualization",
+        "primaryKeyword": {
+          "id": 59709,
+          "content": "문서최신화",
+          "wordType": "SEO_KEYWORD"
+        },
+        "relatedKeywords": [
+          {
+            "id": 37526,
+            "content": "자동화",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 37530,
+            "content": "퍼널",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59707,
+            "content": "AST",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 59711,
+            "content": "최신화",
+            "wordType": "SEO_KEYWORD"
+          }
+        ],
+        "tags": []
+      },
+      "openGraph": {
+        "title": "AST로 퍼널 흐름을 시각화하기",
+        "description": "안녕하세요, 토스코어 Business Onboarding Team 프론트엔드 개발자 조성륜입니다.토스팀에 합류하고 처음 받은 과제는 판매자 입점 퍼널을 이해하는 것이었습니다. 판매자 입점 퍼널은 판매자가 토스페이에 가입하는 과정을 말해요.39개의 페이지 파일을 하나씩 열어보며 며칠을 보...",
+        "backgroundColor": "#424242",
+        "imageAlt": null,
+        "imageUrl": "https://static.toss.im/illusts-content/1224_tech_thumb.png",
+        "imageType": "썸네일 이미지"
+      },
+      "relatedPostConfig": null,
+      "editor": {
+        "id": 2763,
+        "name": "조성륜",
+        "slug": null,
+        "shortDescription": null,
+        "description": null,
+        "imageUrl": null,
+        "url": null,
+        "facebook": null,
+        "twitter": null,
+        "instagram": null,
+        "postCount": 1,
+        "ogConfig": null,
+        "seoConfig": null,
+        "priority": 1000,
+        "isDisplaying": false,
+        "isHomeRecommendation": false
+      },
+      "disclaimerConfig": null,
+      "shortDescription": "안녕하세요, 토스코어 Business Onboarding Team 프론트엔드 개발자 조성륜입니다.\n토스팀에 합류하고 처음 받은 과제는 판매자 입점 퍼널을 이해하는 것이었습니다. 판매자 입점 퍼널은 판매자가 토스페이에 가입하는 과정을 말해요.\n\"이 페이지 다음에 어디로 가요?\"\n\"음... 조건에 따라 달라요. 코드 보시면.",
+      "fullDescription": "안녕하세요, 토스코어 Business Onboarding Team 프론트엔드 개발자 조성륜입니다.\n토스팀에 합류하고 처음 받은 과제는 판매자 입점 퍼널을 이해하는 것이었습니다. 판매자 입점 퍼널은 판매자가 토스페이에 가입하는 과정을 말해요.\n\"이 페이지 다음에 어디로 가요?\"\n\"음... 조건에 따라 달라요. 코드 보시면...\"\n39개의 페이지 파일을 하나씩 열어보며 며칠을 보냈습니다. 파일을 열 때마다 이런 코드가 나왔어요.\n// applicant.tsx (신청자 정보 페이지)\nif (신청자 === 대표자 && 사업자형태 === 개인사업자) {\n  router.push(결제수단_페이지)\n} else if (신청자 === 대리인) {\n  router.push(위임정보_페이지)\n} else {\n  // ... 더 많은 분기들\n}\n39개 페이지가 82개의 서로 다른 조건으로 연결되어 있었습니다. 한 페이지에서 평균 2개 이상의 분기가 있는 셈이죠. 판매자 본인이 직접 신청하는지(대표자), 위임받은 사람이 신청하는지(대리인), 개인사업자인지 법인사업자인지, 본인인증 결과가 어떤지에 따라 경로가 달라졌습니다.\n그리고 생각했어요.\n\"어차피 코드에 다 있는 정보인데, 자동으로 문서를 만들 수 없을까?\"\n이 글에서는 코드를 분석해서 '절대 Outdated 되지 않는 퍼널 문서'를 만든 경험을 공유합니다.\n\n\"그 문서는 아직 최신화 안되어 있어요\"\n팀에 합류하고 가장 먼저 한 일은 기존 문서를 찾아보는 것이었습니다. ‘판매자 입점 퍼널 플로우’라는 문서가 있었어요. 페이지 간 연결을 화살표로 그린 다이어그램이었죠. \"오, 이거 보면 되겠다!\" 싶었습니다.\n그런데 막상 코드를 보니 뭔가 이상했습니다.\n\"문서에는 A 다음에 B로 가는데, 코드에서는 C로 가네요?\"\n\"아, 그 문서는 아직 최신화 안되어 있어요. 코드를 보셔야 해요.\"\n알고 보니 3개월 전에 마지막으로 수정된 문서였습니다. 그 사이에 퍼널 구조가 여러 번 바뀌었지만, 문서는 업데이트되지 않은 거예요. 그래서 제가 직접 플로우차트를 다시 그려보기로 했습니다. 코드를 하나씩 읽으면서 문서에 정리했어요.\n하지만 금방 한계에 부딪혔습니다.\n1. 조건부 분기를 표현하기 어려웠습니다\n‘대표자이면서 개인사업자일 때’는 A로, ‘대리인이면서 법인일 때’는 B로 가는 건 그림으로 그리기 복잡했습니다. 화살표에 조건을 다 적으면 다이어그램이 읽을 수 없을 정도로 지저분해졌어요.\n2. 제가 그린 문서도 금방 Outdated 됐습니다\n열심히 그렸는데, 3일 뒤에 다른 팀원이 퍼널에 새 페이지를 추가했습니다. 제 문서는 이미 현실과 달라져 있었어요. 매번 코드가 바뀔 때마다 문서를 수정하는 건 현실적으로 불가능했습니다.\n결국 같은 문제가 반복되는 거였죠. 수기로 작성한 문서는 결국 Outdated 됩니다.\n\n\n런타임 vs 정적 분석\n코드에서 Navigation 정보를 추출하는 방법은 크게 두 가지입니다.\n\n\n\n\n저희는 정적 분석을 선택했습니다.\n\n🔍 모든 경로를 한 번에 찾을 수 있습니다: 런타임에는 조건에 따라 한 경로만 실행되지만, 정적 분석은 if문 안의 모든 분기를 찾을 수 있어요.\n⚡ 빠르고 안전합니다: 실제로 코드를 실행할 필요 없이, 소스코드만 읽으면 됩니다.\n📍 정확한 위치를 알 수 있습니다: \"이 Navigation은 applicant.tsx의 157번째 줄에 있어요\" 같은 정보를 얻을 수 있습니다.\nAST(Abstract Syntax Tree)는 코드를 트리 구조로 표현한 것입니다. TypeScript 컴파일러가 코드를 이해하는 방식과 동일해요. ts-morph 라이브러리를 사용해서 소스코드를 AST로 파싱했습니다.\n\n\n코드에서 퍼널 흐름을 추출하기까지\n‘코드를 읽어서 Navigation을 추출한다’는 아이디어는 간단하지만, 실제로 구현하려면 여러 단계가 필요합니다. 하나씩 풀어가 볼게요.\nStep 1. 분석할 페이지 파일 찾기\n먼저 39개의 페이지 파일을 찾아야 합니다. Next.js 프로젝트에서 페이지는 src/pages/ 디렉토리에 있고, 각 페이지의 진입점은 index.tsx나 universal.tsx 파일입니다.\n// FileScanner: glob 패턴으로 페이지 파일 탐색\nconst files = await glob('src/pages/funnel/**/*.tsx', {\n  ignore: ['**/components/**', '**/hooks/**', '**/_*.tsx'],\n});\n\n// index.tsx, universal.tsx만 필터링\nreturn files.filter(file =>\n  ['index.tsx', 'universal.tsx'].includes(path.basename(file))\n);\n\ncomponents/나 hooks/ 폴더는 페이지가 아니니까 제외합니다. _app.tsx 같은 특수 파일도 제외하고요. 이렇게 하면 순수하게 페이지 컴포넌트만 남습니다.\nStep 2. Navigation Edge 데이터 구조 설계\n코드를 분석하기 전에, 어떤 정보를 추출할지 먼저 정해야 했습니다. 처음에는 단순하게 ‘A 페이지에서 B 페이지로 간다’만 저장하려고 했어요.\n// 첫 번째 시도: 너무 단순함\n{ from: 'applicant', to: 'pay-method' }\n\n그런데 이것만으로는 부족했습니다. 다이어그램을 봐도 왜 이 경로로 가는지, 어떤 조건일 때 가는지 알 수 없었어요. 결국 코드를 다시 찾아가야 했죠.\n고민 끝에 Navigation의 맥락 정보까지 함께 저장하기로 했습니다.\ninterface NavigationEdge {\n  from: string;           // 출발 페이지\n  to: string;             // 도착지 (상수 또는 URL)\n  method: 'push' | 'replace';  // 브라우저 히스토리 처리 방식\n  condition?: string;     // 이 Navigation이 실행되는 조건\n  queryParams?: Record<string, string>;  // 전달되는 쿼리 파라미터\n  lineNumber: number;     // 코드에서의 정확한 위치\n  sourceType: 'page' | 'hook';  // 페이지에서 직접 호출 vs 훅에서 호출\n  hookName?: string;      // 훅에서 호출된 경우 훅 이름\n}\n\n각 필드를 이렇게 설계한 이유가 있습니다:\n\n\n\n\n\n\n\n이 구조가 이후 모든 분석의 기반이 됩니다.\n\nStep 3. 페이지에서 Navigation 패턴 추출하기\n이제 각 페이지 파일을 AST로 파싱해서 router.push(), router.replace() 같은 Navigation 호출을 찾습니다.\n// NavigationExtractor: AST에서 Navigation 호출 탐색\nextractFromFile(filePath: string, pageName: string): NavigationEdge[] {\n  const sourceFile = this.project.addSourceFileAtPath(filePath);\n  const edges: NavigationEdge[] = [];\n\n  // 모든 함수 호출을 순회\n  const callExpressions = sourceFile.getDescendantsOfKind(SyntaxKind.CallExpression);\n\n  for (const call of callExpressions) {\n    // router.push(), router.replace() 패턴 감지\n    if (this.isRouterNavigation(call)) {\n      const edge = this.extractEdge(call, pageName);\n      if (edge) edges.push(edge);\n    }\n  }\n\n  return edges;\n}\n핵심은 getDescendantsOfKind(SyntaxKind.CallExpression)입니다. 파일 전체에서 모든 함수 호출을 찾아온 뒤, 그중에서 router.push()나 router.replace() 패턴인지 확인합니다.\n조건문(condition)은 어떻게 추출할까요? Navigation 노드를 찾으면 AST를 부모 방향으로 거슬러 올라가면서 가장 가까운 if문이나 삼항 연산자를 찾습니다.\n// 조건문 추출 로직\nprivate extractCondition(node: Node): string | undefined {\n  let current = node.getParent();\n\n  while (current) {\n    if (current.isKind(SyntaxKind.IfStatement)) {\n      // if문 발견! 조건식 추출\n      return current.getExpression().getText();\n    }\n    current = current.getParent();\n  }\n\n  return undefined;  // 조건문 없이 실행되는 Navigation\n}\n\n이렇게 하면 어떤 조건일 때 이 경로로 가는지까지 알 수 있어요.\n\nStep 4. 커스텀 훅 안에 숨어있는 Navigation 찾기\n페이지 파일만 분석하면 놓치는 Navigation이 있습니다. 로직이 커스텀 훅으로 분리된 경우예요.\n// applicant.tsx - 페이지 컴포넌트\nfunction ApplicantPage() {\n  useBusinessLogin() // 이 훅 안에서 router.push()를 호출하면?\n}\n\n// hooks/useBusinessLogin.ts - 커스텀 훅\nfunction useBusinessLogin() {\n  const router = useRouter()\n\n  useEffect(() => {\n    router.push('/business-login-bridge') // 여기!\n  }, [])\n}\n페이지 컴포넌트만 분석하면 이 Navigation을 놓치게 됩니다. 그래서 페이지가 import하는 훅을 역추적하는 방식을 사용했습니다.\n// HookAnalyzer: 페이지의 import 구문에서 훅 추출\nextractHookImports(pageFilePath: string): HookImport[] {\n  const sourceFile = this.project.addSourceFileAtPath(pageFilePath);\n  const hookImports: HookImport[] = [];\n\n  for (const importDecl of sourceFile.getImportDeclarations()) {\n    const moduleSpecifier = importDecl.getModuleSpecifierValue();\n\n    // '/hooks/' 경로에서 import하는 것만 추적\n    if (moduleSpecifier.includes('/hooks/')) {\n      const namedImports = importDecl.getNamedImports();\n\n      for (const namedImport of namedImports) {\n        const hookName = namedImport.getName();\n        // use로 시작하는 것만 훅으로 판단\n        if (hookName.startsWith('use')) {\n          hookImports.push({ hookName, hookFilePath: this.resolveHookFilePath(...) });\n        }\n      }\n    }\n  }\n\n  return hookImports;\n}\n이렇게 찾은 훅 파일을 다시 AST로 파싱해서 Navigation 호출이 있는지 확인합니다.\n// 훅 내부에 Navigation이 있는지 체크\nhasNavigationCalls(hookFilePath: string): boolean {\n  const sourceFile = this.project.addSourceFileAtPath(hookFilePath);\n\n  const callExpressions = sourceFile.getDescendantsOfKind(SyntaxKind.CallExpression);\n  for (const call of callExpressions) {\n    if (NavigationDetector.isRouterNavigation(call)) {\n      return true;\n    }\n  }\n\n  return false;\n}\n훅에서 Navigation을 찾으면, 해당 훅을 사용하는 페이지에서 나가는 edge로 기록합니다. 출처도 함께 기록해서 나중에 ‘이 Navigation은 훅에서 온 것’임을 알 수 있게 했어요.\n// 추출 결과에는 출처가 함께 기록됩니다\n{\n  from: 'applicant',\n  to: '/business-login-bridge',\n  sourceType: 'hook',        // 'page'가 아닌 'hook'\n  hookName: 'useBusinessLogin',\n  lineNumber: 42\n}\nStep 5. URL 상수를 실제 경로로 변환하기\n여기까지 하면 Navigation edge들이 추출되는데, 문제가 있습니다. 도착지가 URLS.FUNNEL.PAY_METHOD 같은 상수 형태예요.\n// 코드에는 이렇게 쓰여 있지만\nrouter.push(URLS.FUNNEL.PAY_METHOD)\n\n// 그래프에는 실제 경로가 필요합니다\n'/funnel/pay-method'\n그래서 URL 상수 파일을 AST로 파싱해서 상수 → 실제 경로 매핑 테이블을 만듭니다.\n// URLResolver: URL 상수 파일 파싱\nasync loadUrlConstants(): Promise<void> {\n  const urlsFile = project.addSourceFileAtPath('src/constants/urls.ts');\n\n  // URLS 객체 찾기\n  const urlsObject = urlsFile.getVariableDeclaration('URLS');\n\n  // 중첩 객체를 재귀적으로 순회하며 매핑 생성\n  this.extractNestedObject(urlsObject, 'FUNNEL');\n}\n\n// 결과: Map<상수명, 실제경로>\n// 'FUNNEL.PAY_METHOD' → '/funnel/pay-method'\n// 'FUNNEL.DELEGATION_INFO' → '/funnel/delegation-info'\nStep 6. 그래프 구축하기\n이제 모든 edge를 모아서 그래프를 만들 차례입니다. 이 과정에서 진입점과 이탈점도 자동으로 분류합니다.\n// 진입점: 들어오는 edge가 없고, 나가는 edge만 있는 페이지\n// 이탈점: 나가는 edge가 없고, 들어오는 edge만 있는 페이지\n\nfor (const [pageName, node] of nodes) {\n  if (node.incomingEdges.length === 0 && node.outgoingEdges.length > 0) {\n    entryPoints.push(pageName);  // 퍼널의 시작점\n  }\n\n  if (node.outgoingEdges.length === 0 && node.incomingEdges.length > 0) {\n    exitPoints.push(pageName);   // 퍼널의 끝점 (신청 완료 등)\n  }\n}\nStep 7. Mermaid 다이어그램 생성하기\n마지막으로 그래프를 Mermaid 문법의 플로우차트로 변환합니다.\n// MermaidGenerator: 그래프를 Mermaid 문법으로 변환\ngenerate(graph: NavigationGraph): string {\n  const lines: string[] = [];\n\n  lines.push('```mermaid');\n  lines.push('flowchart TD');\n\n  // 노드 정의 (진입점은 둥근 모양, 이탈점은 기울어진 모양)\n  for (const [pageName] of graph.nodes) {\n    const shape = this.getNodeShape(pageName, graph);\n    lines.push(`    ${nodeId}${shape}`);\n  }\n\n  // 엣지 정의 (조건, 쿼리 파라미터를 라벨로)\n  for (const edge of graph.edges) {\n    const label = this.getEdgeLabel(edge);  // 조건문, ?param=value 등\n    const style = edge.method === 'replace' ? '==>' : '-->';\n    lines.push(`    ${fromId} ${style}|\"${label}\"| ${toId}`);\n  }\n\n  lines.push('```');\n  return lines.join('\\\\n');\n}\npush는 단일 화살표(-->), replace는 이중 화살표(==>)로 구분합니다. 브라우저 히스토리에 남는지 여부가 다르니까, 시각적으로도 구분해주는 거예요.\n\n완성된 다이어그램, 그리고 효과\n최종적으로 생성되는 다이어그램 예시입니다.\nflowchart TD\n    entry([진입 페이지])\n    applicant[신청자 정보]\n    pay_method[결제 수단]\n    delegation[위임 정보]\n    review[검토]\n    complete[/신청 완료/]\n\n    entry -->|\"?from=home\"| applicant\n    applicant -->|\"신청자 === 대표자 && 사업자형태 === 개인사업자\"| pay_method\n    applicant -->|\"신청자 === 대리인\"| delegation\n    pay_method --> review\n    delegation --> review\n    review ==>|\"[replace]\"| complete\n\n    classDef entryNode fill:#e1f5ff,stroke:#0066cc,stroke-width:2px\n    classDef exitNode fill:#ffe1e1,stroke:#cc0000,stroke-width:2px\n    class entry entryNode\n    class complete exitNode\n\n\n\n진입점(파란색)에서 시작해서 조건에 따라 분기\n이탈점(빨간색)에 도달하는 과정을 한눈에\n화살표 라벨에 조건문과 쿼리 파라미터 표시\n이중 화살표(==>)는 replace, 단일 화살표(->)는 push\n\n\n\n무엇이 바뀌었나\n1. 신규 입사자 온보딩 시간 단축\n‘판매자 입점 퍼널이 어떻게 돌아가는지’를 설명할 때, 이제 다이어그램 하나면 충분합니다. 39개 파일을 읽을 필요 없이, 전체 흐름을 한눈에 보여줄 수 있어요.\n2. 영향 범위 파악이 쉬워짐\n\"이 페이지를 수정하면 어디에 영향을 주지?\"라는 질문에 바로 답할 수 있습니다. 다이어그램에서 해당 노드에서 뻗어나가는 화살표만 보면 되니까요. 예를 들어 신청자 정보 페이지에서는 6개의 서로 다른 경로가 있고, 각각 어떤 조건일 때 실행되는지 한눈에 파악할 수 있어요.\n3. 데드엔드 발견\n이탈점이 아닌데 나가는 edge가 없는 페이지(데드엔드)를 자동으로 찾을 수 있습니다. 실제로 개발 중에 실수로 Navigation을 빼먹은 페이지를 발견하기도 했어요.\n4. 코드 변경과 문서 동기화\n코드를 변경하면, 스크립트를 다시 실행하는 것만으로 문서가 자동으로 업데이트됩니다. 더 이상 \"문서가 Outdated 됐는지\" 걱정할 필요가 없어요.\n\n마치며\n신규 입사자로서 처음 마주한 39개의 페이지 파일들. \"이 페이지는 어디로 연결되지?\"를 파악하는 데만 며칠이 걸렸습니다. 하지만 그 경험이 이 도구를 만드는 출발점이 되었어요.\n신규 입사자의 시선이 오히려 도움이 됐습니다. 팀원들에게는 익숙한 것들이, 처음 보는 사람에게는 명확한 Pain Point로 보이거든요. 그 불편함을 ‘원래 그런 거니까’로 넘기지 않고, 실제 코드베이스를 활용해 해결책을 만들 수 있었습니다.\n문서화는 항상 \"중요하지만 급하지 않은\" 일로 밀려나기 쉽습니다. AST를 활용하면 코드가 변경될 때마다 자동으로 동기화되는, 절대 Outdated 되지 않는 문서를 만들 수 있어요.\n비슷한 고민이 있으시다면, 꼭 퍼널이 아니더라도 정적 분석으로 해결할 수 있는 문제가 많습니다. 라우팅 구조, 컴포넌트 의존성, API 호출 패턴 등 코드에 있는 정보를 자동으로 추출하고 시각화 해보세요.\n이 글을 읽고 궁금한 점이나 비슷한 경험이 있으시다면 댓글로 공유해주세요!\n",
+      "isDisplayingFeedback": true,
+      "quizzes": [],
+      "opinionForm": null,
+      "viewCount": 11674
+    },
+    {
+      "id": 43387,
+      "updatedTime": "2026-01-13T20:12:52+09:00",
+      "createdTime": "2025-12-09T16:42:46+09:00",
+      "category": "Engineering",
+      "categories": [
+        {
+          "name": "Engineering",
+          "id": 1024,
+          "slug": "engineering",
+          "parentId": null,
+          "iconUrl": ""
+        },
+        {
+          "name": "QA",
+          "id": 2127,
+          "slug": "qa",
+          "parentId": 1024,
+          "iconUrl": ""
+        }
+      ],
+      "series": null,
+      "seriesSlug": null,
+      "title": "세금 환급 자동화 : AI-driven UI 테스트 자동화 일지",
+      "subtitle": "QA가 코드를 거의 치지 않아도, 자동화 시스템은 완성될 수 있을까?\nAI에게 99%를 맡긴다면, 품질을 지킬 수 있을까?",
+      "bottomButtonConfig": {
+        "ctaType": "NONE",
+        "imageUrl": null,
+        "imageAlt": null,
+        "title": null,
+        "description": null,
+        "ctaName": null,
+        "landingUrl": null,
+        "isSearchBottomCta": false,
+        "landingInExternalBrowser": false,
+        "serviceId": null,
+        "stockConfig": null,
+        "landingScheme": null,
+        "landingExternal": null
+      },
+      "coverConfig": {
+        "coverType": "IMAGE",
+        "imageUrl": "https://static.toss.im/illusts-content/1223_tech_thumb.png",
+        "videoUrl": null,
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "thumbnailConfig": {
+        "imageUrl": "https://static.toss.im/illusts-content/1223_tech_thumb.png",
+        "backgroundColor": null,
+        "isFill": true,
+        "imageAlt": null
+      },
+      "key": "ai-driven-ui-test-automation",
+      "minAge": 0,
+      "isDisplaying": true,
+      "isDisplayingPublishedTime": true,
+      "workspaceId": 15,
+      "isPublished": true,
+      "publishedTime": "2025-12-24T11:53:00+09:00",
+      "likeCount": 0,
+      "commentBoard": null,
+      "relatedPostTitle": null,
+      "relatedPosts": [],
+      "disclaimer": null,
+      "seoConfig": {
+        "post": 43387,
+        "title": null,
+        "description": "QA가 코드를 거의 치지 않아도, 자동화 시스템은 완성될 수 있을까?\nAI에게 99%를 맡긴다면, 품질을 지킬 수 있을까?",
+        "urlSlug": "ai-driven-ui-test-automation",
+        "primaryKeyword": {
+          "id": 58809,
+          "content": "QA자동화",
+          "wordType": "SEO_KEYWORD"
+        },
+        "relatedKeywords": [
+          {
+            "id": 37582,
+            "content": "AI",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 46263,
+            "content": "테스트",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 57949,
+            "content": "QA",
+            "wordType": "SEO_KEYWORD"
+          },
+          {
+            "id": 57951,
+            "content": "QA Manager",
+            "wordType": "SEO_KEYWORD"
+          }
+        ],
+        "tags": []
+      },
+      "openGraph": {
+        "title": "세금 환급 자동화 : AI-driven UI 테스트 자동화 일지",
+        "description": "QA가 코드를 거의 치지 않아도, 자동화 시스템은 완성될 수 있을까?\nAI에게 99%를 맡긴다면, 품질을 지킬 수 있을까?",
+        "backgroundColor": "#424242",
+        "imageAlt": null,
+        "imageUrl": "https://static.toss.im/illusts-content/1223_tech_thumb.png",
+        "imageType": "썸네일 이미지"
+      },
+      "relatedPostConfig": null,
+      "editor": {
+        "id": 2743,
+        "name": "정수호",
+        "slug": null,
+        "shortDescription": null,
+        "description": null,
+        "imageUrl": null,
+        "url": null,
+        "facebook": null,
+        "twitter": null,
+        "instagram": null,
+        "postCount": 2,
+        "ogConfig": null,
+        "seoConfig": null,
+        "priority": 1000,
+        "isDisplaying": false,
+        "isHomeRecommendation": false
+      },
+      "disclaimerConfig": null,
+      "shortDescription": "안녕하세요, 토스인컴 QA Manager 정수호입니다.\n토스인컴의 세금환급 서비스는 복잡합니다. 연말정산, 현금영수증, 세금비서, 숨은환급찾기 네 가지 서비스가 각각 다른 UX와 인증 방식을 사용하고, 공제 항목만 해도 의료비·인적공제·전월세·주담대·중소기업 감면 등 수십 가지가 넘어요. 여기에 실험 그룹, 약관 종류, ",
+      "fullDescription": "안녕하세요, 토스인컴 QA Manager 정수호입니다.\n토스인컴의 세금환급 서비스는 복잡합니다. 연말정산, 현금영수증, 세금비서, 숨은환급찾기 네 가지 서비스가 각각 다른 UX와 인증 방식을 사용하고, 공제 항목만 해도 의료비·인적공제·전월세·주담대·중소기업 감면 등 수십 가지가 넘어요. 여기에 실험 그룹, 약관 종류, 홈택스 스크래핑 서버 상태까지 더해지면 테스트해야 할 플로우는 금세 수십 가지 조합으로 늘어나죠.\n\n2025년 7월, 저는 이 모든 것을 혼자 커버해야 하는 상황에 놓였습니다. \n자동화가 필요하다는 건 모두가 알고 있었지만, 현실적인 문제가 남았어요. E2E 테스트 하나를 만드는 데 4~8시간이 걸리고, 40개를 만들려면 160~300시간이 필요했습니다. UI나 정책이 바뀔 때마다 테스트를 다시 손봐야 했고, 혼자 만들고 운영하고 회고까지 해야 했죠.\n\n그래서 저는 조금 다른 질문을 던졌습니다.\n“QA가 코드를 직접 치지 않아도 된다면 어떨까?”\n“AI를 진짜 팀원처럼 활용해서, 99%를 맡기면 어떨까?”\n이 글은 그 질문을 2025년 7월부터 11월까지 진짜 서비스 환경에서 5개월 동안 실험한 이야기입니다. 결론부터 말하면, AI 3명 + 사람 1명이 함께 4~5명 규모의 자동화 팀이 낼 만큼의 결과를 만들었어요.\n\n왜 AI였을까?\n세금 환급 서비스 자동화는 일반적인 웹 서비스보다 난이도가 훨씬 높았습니다. 단순히 단계가 많기 때문이 아니라, 각 단계가 서로 다른 시스템·정책·외부 연동에 의존하며 동시에 움직이기 때문이에요.\n1. 플로우 자체가 복잡했습니다\n환급 플로우는 평균 15~20단계를 넘어갑니다. 그 자체로도 길지만, 더 큰 문제는 각 단계가 서로 다른 시스템 특성을 가진다는 점이었어요.\n\n로그인 → 내부 인증 시스템\n공제 선택 → 정책 엔진\n스크래핑 → 외부 공공기관 API\n환급 금액 → 엔진 계산 결과\n결제 → 페이 연동\n이 모든 과정이 한 번에 이어지는 장거리 릴레이처럼 작동합니다. 단 한 단계라도 타이밍이 어긋나거나 외부 시스템 상태가 달라지면 전체 플로우가 실패할 수 있어요. 게다가 UI는 React 기반입니다. 사용자에게는 자연스러운 애니메이션이나 오버레이가 E2E 테스트 입장에서는 클릭 미스, 전환 실패, 대기 타임아웃으로 이어지곤 해요.\n그래서 자동화 관점에서는 ‘정상 케이스를 한 번 구현하는 것보다, 매일 안정적으로 반복 실행하게 만드는 것’이 훨씬 어려운 일이었습니다.\n2. UI와 정책이 ‘자주 그리고 크게’ 바뀌었습니다\n외부에서 보면 가벼운 UI 수정처럼 느껴질 수 있지만, 자동화에서는 매우 큰 변경입니다.\n예를 들어:\n\n버튼 문구가 ‘공제 수정하기’ → ‘입력한 정보 수정하기’로 바뀐다\n→ 자동화는 해당 버튼을 찾지 못하고 시나리오가 즉시 중단됩니다.\n질문이 하나 추가된다\n→ 예상하지 못한 화면이 등장하고 전체 플로우가 달라집니다.\n스크래핑 UI가 개편된다\n→ 대기 방식, 전환 타이밍, DOM 구조까지 모두 다시 설계해야 합니다.\n즉, 사람에게는 사소해 보이는 UI 변화가, 자동화에게는 시나리오 전체를 다시 구성해야 하는 큰 변경으로 다가오죠. 실제로 7월부터 11월까지 내부 변경 내역을 보면 난이도가 체감됩니다.\n\n7월: 스크래핑 단계 UI 개편\n8월: 많은 실험을 통한 일단위 문구변경 ex) '입력한 정보 수정하기' → '공제 수정' 문구 변경\n9월: 프론트엔드 리팩토링 및 컴포넌트 대규모 업데이트\n10월: 월세 공제 질문 추가\n11월: 세금비서·현금영수증·더 낸 연말정산 받기 서비스 별로 다르게 약관 개선\n이런 변화들은 개발자에게는 금방 고칠 수 있는 UI 수정일지 몰라도, 자동화 테스트는 셀렉터, 대기 전략, 분기 흐름을 모두 다시 손봐야 하는 수준이었습니다. 그래서 하드코딩 된 테스트는 매번 흔들릴 수밖에 없었어요.\n3. 불안정한 환경\n실험 그룹에 따라 화면이 달라지고, 스크래핑 탭이 열렸다 닫혔다 하며 Target closed가 발생하고, 도메인도 환경마다 달랐습니다. 이런 상황에서 35개의 시나리오를 모두 자동화로 커버하려면 사람 중심의 개발 방식으로는 절대 불가능했어요. 그래서 선택했습니다.\n“AI가 코드를 짜고,\n사람은 문제 정의와 품질 검증에 집중한다.”\n\n우리가 사용한 AI 도구들\nAI를 하나만 쓴 건 아니었습니다. 각 도구는 서로 다른 강점을 가지고 있었어요.\n1️⃣ Claude Sonnet 4.5 (Claude Code)\n메인 개발자 역할을 맡았어요. 테스트 코드, 유틸 함수, 리팩토링, 문서화까지 대부분을 담당했습니다. 그리고 Claude를 세 가지 페르소나로 나눠 일했습니다.\n\nSDET(Software Development Engineer in Test) Agent — 테스트 설계 및 아키텍처\nDocumentation Specialist — 문서 구조화 및 일지 자동 생성\nGit Master — 커밋/PR/변경 요약\n2️⃣ Cursor\nIDE 안의 페어 프로그래머처럼, type 에러와 import 문제를 바로바로 해결해줬습니다.\n3️⃣ Codex\n코드 분석과 비교에 강했습니다. “이 테스트 두 개의 차이는 무엇인가?” 같은 질문에 아주 강했어요.\n\nAI 팀원들 – 실제로는 이렇게 일했다\n🤖 SDET Agent - 테스트 설계와 아키텍처 담당\n1) Page Object Model 도입 (7월 말)\n테스트가 5개쯤 되었을 때, 코드가 복잡해지기 시작했습니다.\n나: “셀렉터가 너무 많고 중복돼. 유지보수가 걱정돼.”\nSDET Agent: “Page Object Model로 바꿔볼까요?”\n그리고 10분 뒤 Claude는 이런 파일을 만들어줬습니다.\nexport class RefundApplicationPage {\n  constructor(private page: Page) {}\n\n  async clickApplyButton() {\n    await this.page.click(this.selectors.applyButton);\n  }\n\n  async fillAccountNumber(account: string) {\n    await this.page.fill(this.selectors.accountInput, account);\n  }\n\n  private selectors = {\n    applyButton: 'button:has-text(\"환급 신청\")',\n    accountInput: 'input[name=\"account\"]',\n  };\n}\n\n\n이후로 셀렉터 변경은 딱 한 곳만 고치면 끝이었어요. 일지에도 이렇게 남아 있습니다.\n“중복 셀렉터 스트레스가 사라졌다.” — 8월 자동화 일지\n\n2) 약관(동의) 플로우 자동 정리 (9월 12일)\n“세금비서에서 약관 한 줄이 추가되면서 기존 자동화가 모두 멈췄어요.”\n문제는 약관이 서비스마다, 유입 경로마다 다르다는 점이었습니다. 숨은환급금찾기 / 세금비서 / 현금영수증 / 더낸 연말정산 돌려받기 서비스는 약관 개수, 순서, 명칭까지 전부 달라요.\nAI에게 요청했습니다.\n나: “서비스별로 약관 구조를 자동으로 감지해서 처리하는 유틸을 만들어줘.”\nClaude가 제안한 내용은 다음과 같아요.\n\nURL 기반 서비스 타입 감지\ncheckbox 개수에 따른 신/구 유저 구분\n서비스별 필수 약관 목록 자동 매칭\n“모두 동의하기” 버튼이 없는 경우의 fallback\n결과적으로 하나의 clickInitialConsent() 함수만 유지하면 네 가지 서비스의 약관 변화가 모두 자동으로 반영되도록 만들 수 있었어요. 이후 약관 변경이 여러 차례 있었지만, 테스트는 단 한 번도 중단되지 않았습니다.\n\n📝 Documentation Specialist - 문서와 일지 관리 담당\n저녁이면 저는 AI에게 한 줄만 입력했습니다.\n“오늘 커밋 기반으로 일지 정리해줘.”\n그러면 다음과 같은 완성된 회고가 나옵니다.\n📅 2025-11-24\n신규 테스트 3개 추가 (탈퇴, 홈택스 가입, 연금공제 미공제)\nclickButton Fallback 기본 활성화\n월세 공제 로직 수정\nv3.3.0 기준 테스트 35개 통과\n문서(CLAUDE_CONTEXT.md, QA_AUTOMATION_GUIDE.md) 최신화 완료\n이전에는 30~40분씩 들여 쓰던 일지를 이제는 1~2분 검토만 하면 작성을 마칠 수 있게 되었어요.\n문서로 기록을 남기니 이후에 같은 부분에서 막히면 손쉽게 해결을 할 수 있었어요. 또 한 팀원에게 전파도 쉬워졌습니다.\n\n✍️ Git Master - 커밋·PR 코파일럿\n초반에는 흔한 커밋 메시지를 사용했습니다.\ngit commit -m \"fix\"\ngit commit -m \"update test\"\n하지만 지금은 대부분 이런 메시지예요.\nfeat(test-15): prevent duplicate userNo across tests\n\n- ensure each test uses unique userNo\n- add duplicate-check bash script\n- update QA_AUTOMATION_GUIDE with isolation rule\n\nCloses #45\n6개월이 지나니 커밋 히스토리만 봐도 팀의 발자국이 또렷하게 보였습니다.\n\n💬 내부 메신저로 이어진 AI–사람–테스트 루프\nAI가 코드만 짠 건 아니에요. 테스트 결과와 데이터도 내부 메신저를 통해 주고받는 구조를 만들었습니다. 매 테스트가 끝나면, 자동으로 이런 메시지가 떨어져요.\n결과, 실행시간, 환경, 실행시각, 테스트 UserNo(테스트 고유 ID), 관련 티켓 브랜치 등\n\n\n테스트가 실패하면 메시지는 조금 달라집니다.\n에러메시지, 실패 단계, 실패 단계 관련 로그를 추적할 수 있도록 EventID, 실패단계 로그 등\n\n\n여기서 중요하게 볼 점은 어디서 어떻게 테스트가 실패하느냐였어요. 그래서 해당 실패 스레드의 댓글로 \n테스트 리포트 \n테스트 실패 지점 스크린샷\n이 오도록 AI에게 요청했고 반영이 되었습니다.\n\n더 재밌는 점은 내부 메신저에서 바로 논의가 시작된다는 점이었어요.\nQA: “배포 후 13번 테스트가 깨지고 있어요. 의료비 공제 쪽 확인 부탁드려요”\n테스트 결과도 마찬가지였습니다. 테스트 진행 단계 및 오류 로그등 사람이 이해하기 좋은 형태의 테스트 데이터 리포트가 바로 도착하죠.\n\n\n테스트 결과와 데이터를 내부 메신저에서 확인하고\n이상한 부분이 있으면 AI에게 “이 케이스만 다시 분석해줘”라고 요청하고\nAI가 제안한 수정 코드를 적용하고\n다시 내부 메신저으로 결과를 받는 루프\n코드를 치는 시간보다 내부 메신저에서 AI와 대화하는 시간이 더 많아진 경험이었습니다.\n\n시간순 개발 스토리\n올해 7월부터 지금까지 시간순으로 개발 여정에 대해 좀 더 자세히 들여다 볼게요.\n7월 — 파일럿 시작\n현금영수증/의료비/신용카드 등 핵심 테스트 5개를 제작했고, Page Object Model을 도입하며 테스트 유틸 함수 틀을 완성했습니다.\n8월 — 문서화 & React 타이밍 이슈 해결\n스크린 상에는 버튼이 이미 렌더링되어 있는데, Playwright는 지속적으로 아래 오류를 내며 클릭을 거부했습니다.\nError: Element is not clickable\nUI는 보이는데 클릭이 안 되는, React 기반 서비스에서 간헐적으로 나타나는 전형적인 플로우였어요. 문제를 추적해보니, DOM이 렌더링된 시점과 이벤트 핸들러가 바인딩되는 시점 사이에 미묘한 비동기 갭이 존재했습니다.\n\nDOM은 준비됨\nCSS 레이아웃도 완료됨\n하지만 React의 useEffect 내부 로직으로 인해 onClick 핸들러가 실제로 등록되기까지 수 ms ~ 수백 ms 지연\nPlaywright는 “보이는 요소”만을 기준으로 클릭을 시도하기 때문에 이벤트 핸들러가 아직 바인딩되지 않은 상태에서는 렌더는 끝났는데 상호작용은 아직 불가한 상태가 만들어졌습니다.\n\nClaude는 먼저 문제를 이렇게 정리해줬습니다.\n“React에서는 ‘보인다(Visible)’와 ‘클릭 가능(Interactable)’이 반드시 같은 시점이 아닙니다.\nPlaywright가 클릭을 시도할 때 이벤트 핸들러가 아직 바인딩되지 않은 상태입니다.\nUI 안정화(visual ready)와 상호작용 준비(interaction ready)를 분리해 기다릴 필요가 있습니다.”\n그리고 아래와 같은 표준화된 인터랙션 준비(Interaction Readiness) 전략을 제안했어요.\n\n1️⃣ DOM → React → 이벤트 핸들러 순서로 안정화 대기 (예시)\n단순 sleep이 아니라, 단계별로 UI 안정성을 확보하는 구조입니다.\n// UI가 \"보이는 것\"과 \"상호작용 가능한 것\"은 다르기 때문에\n// interaction readiness를 명시적으로 보장하는 헬퍼.\nexport async function waitForReactInteractionReady(page: Page, selector: string) {\n  // 1) DOMContentLoaded: 기본 DOM 파싱 완료\n  await page.waitForLoadState('domcontentloaded');\n\n  // 2) 요소 존재 여부 확인 (레이아웃 완료)\n  await page.waitForSelector(selector, { state: 'visible', timeout: 5000 });\n\n  // 3) React hydration + effect 바인딩까지 고려한 안정화 대기\n  await page.waitForFunction(\n    (sel) => {\n      const el = document.querySelector(sel);\n      return !!el && typeof el.onclick === 'function';\n    },\n    selector,\n    { timeout: 8000 }\n  );\n}\n2️⃣ 상호작용 fallback 전략 (예시)\n‘한 번 클릭 → 안 되면 강제 클릭 → 그래도 안 되면 네이티브 입력(Enter)’ 같은 전략이 아니라, 위험하지 않은 순서로 정리된 fallback입니다.\nexport async function safeClick(page: Page, selector: string) {\n  try {\n    // 1. 표준 클릭\n    await page.click(selector, { timeout: 3000 });\n    return;\n  } catch (_) {}\n\n  try {\n    // 2. 네이티브 키보드 인터랙션 (가장 안정적)\n    await page.keyboard.press('Enter');\n    return;\n  } catch (_) {}\n\n  // 3. 최후의 수단: JS로 디스패치\n  await page.$eval(selector, (el: HTMLElement) => el.click());\n}\n3️⃣ 최종 결합된 Click API (예시)\nexport async function clickReactButton(page: Page, text: string) {\n  const selector = `button:has-text(\"${text}\")`;\n\n  // React 이벤트 바인딩 대기\n  await waitForReactInteractionReady(page, selector);\n\n  // 안정적 클릭\n  await safeClick(page, selector);\n}\n이 전략을 적용하면서 16번·17번 테스트에서 반복적으로 발생하던 클릭 실패는 완전히 사라졌습니다.\n\n기존 성공률: 약 70%\n개선 후 성공률: 100%\n코드 복잡도는 ↓\nUI 안정성은 ↑\n특히 핵심은 ‘랜덤하게 25초 기다리기’ 같은 접근이 아니라, React UI의 특성을 고려해 ‘상호작용 가능’ 상태를 직접 감지한 것이었어요. 문제 자체는 단순해 보였지만, 그 단순함의 본질까지 AI가 정확히 짚어준 순간이기도 했습니다.\n\n9월 — 대규모 리팩토링 & 테스트 격리\n2,147줄짜리 파일을 3개 파일로 분리했고, 23개 테스트 import를 자동 수정했으며, userNo 충돌 이슈를 완전히 해결했습니다. ‘자동화가 돌아간다’에서 ‘자동화 품질을 관리할 수 있다’ 단계로 올라간 시기였어요.\n\n10월 — 약관 시스템 재설계\n서비스가 여러 개로 늘어나면서 약관은 폭발적으로 복잡해졌습니다. Claude는 다음과 같이 제안했어요.\n\n모든 약관을 consentOptions.ts로 중앙 관리\nURL 기반 서비스 타입 자동 감지\n내부 메신저 알림에 동의 내역을 이모지로 표시\n그 결과 3일만에 약관의 정합성을 확인하는 시스템이 만들어졌습니다. 이후 약관 추가는 설정 파일 한 줄 수정이면 끝나게 되었어요.\n\n11월 — 35개 테스트 완성 & 운영 모드 진입\n탈퇴, 홈택스 가입, 연금공제 미공제 테스트를 추가했고, clickButton 기본 Fallback을 활성화했으며, 문서와 코드를 동기화했습니다(v3.3.0). 이때 일지에는 이렇게 적혀 있었어요.\n“이제는 테스트를 ‘추가’하는 단계가 아니라, 안정적으로 ‘운영’하는 단계에 도달했다.”\n\n\nAI와 함께 일해본다는 것\n5개월 동안 저는 아래 네 가지에 거의 모든 시간을 썼습니다.\n\n문제 정의\n요구사항 정리\nAI에게 맥락과 제약 설명\n결과물 검토·승인\n코드를 직접 친 시간은 10%도 되지 않았어요. 대신 AI가 짜온 코드와 설계의 방향을 잡아주는 역할을 했죠. 그래서 스스로에게 이런 질문을 하게 됩니다.\n코드를 잘 치는 사람보다 AI와 함께 문제를 해결할 수 있는 사람이 앞으로 더 중요한 건 아닐까?\n\n\nAI-driven 테스트 자동화\nAI가 QA를 대체할까요? 저는 그렇게 생각하지 않습니다. 하지만 AI가 QA의 역량을 증폭시키는 시대는 이미 시작됐다고 믿어요. 세금 환급처럼 복잡한 도메인에서도, AI는 충분히 팀원 역할을 해냈습니다.\n그리고 지난 5개월을 거치며 저에게 남은 가장 큰 인사이트는 이것입니다.\n“AI가 좋은 품질의 속도를 만든다면,\nQA는 그 속도가 향해야 할 ‘방향’을 만드는 사람이다.”\n\n\n",
+      "isDisplayingFeedback": true,
+      "quizzes": [],
+      "opinionForm": null,
+      "viewCount": 14564
+    }
+  ]
+}
