@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "target": "es2020", /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', etc. */
+    "module": "esnext", /* Specify module code generation: 'None', 'CommonJS', 'System', 'ES6', 'ES2015', 'ES2020', 'ES2022', 'ESNext' */
+    "outDir": "src/dist", /* Redirect output structure to the directory. */
+    "strict": false, /* Enable all strict type-checking options. */
+    "esModuleInterop": true, /* Emit additional JavaScript to ease support for importing CommonJS modules. */
+    "forceConsistentCasingInFileNames": true, /* Ensure that casing is consistent across all file systems. */
+    "skipLibCheck": true, /* Skip type checking of declaration files. */
+    "lib": [
+      "dom",
+      "es2020"
+    ], /* Specify library files to be included in the compilation. */
+    "moduleResolution": "node", /* Resolve modules using Node.js style. */
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "tsc-alias": {
+    "verbose": false,
+    "resolveFullPaths": true,
+    "replacers": {
+      "utils": {
+        "enabled": true,
+        "file": "./src/utils/index.ts"
+      }
+    },
+    "fileExtensions": {
+      "inputGlob": "{js,jsx,mjs}",
+      "outputCheck": [
+        "js",
+        "json",
+        "jsx",
+        "mjs"
+      ]
+    },
+  },
+  "include": [
+    "src/**/*" /* Include all files in the 'src' directory. */
+  ],
+  "exclude": [
+    "node_modules", /* Exclude the 'node_modules' directory. */
+  ]
+}
