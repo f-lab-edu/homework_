@@ -19,14 +19,8 @@
     }
   },
   "tsc-alias": {
-    "verbose": false,
     "resolveFullPaths": true,
-    "replacers": {
-      "utils": {
-        "enabled": true,
-        "file": "./src/utils/index.ts"
-      }
-    },
+    "verbose": false,
     "fileExtensions": {
       "inputGlob": "{js,jsx,mjs}",
       "outputCheck": [
